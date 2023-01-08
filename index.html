@@ -95,23 +95,24 @@
 
 
 
-  <link rel="alternate" href="/atom.xml" title="kllay" type="application/atom+xml">
+  <link rel="alternate" href="/atom.xml" title="kllay个人博客" type="application/atom+xml">
 
 
 
 
 
 
-<meta name="description" content="俱往矣，数风流人物，还看今朝。">
+<meta name="description" content="测试,资源分享,技术,媒体,安全,工具,影视">
+<meta name="keywords" content="kllay,个人博客,技术博客,dexo,资源分享,技术,媒体,安全,漏洞,测试,开发,工具">
 <meta property="og:type" content="website">
-<meta property="og:title" content="kllay">
+<meta property="og:title" content="kllay个人博客">
 <meta property="og:url" content="https://kllay.github.io/index.html">
-<meta property="og:site_name" content="kllay">
-<meta property="og:description" content="俱往矣，数风流人物，还看今朝。">
+<meta property="og:site_name" content="kllay个人博客">
+<meta property="og:description" content="测试,资源分享,技术,媒体,安全,工具,影视">
 <meta property="og:locale" content="zh-Hans">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="kllay">
-<meta name="twitter:description" content="俱往矣，数风流人物，还看今朝。">
+<meta name="twitter:title" content="kllay个人博客">
+<meta name="twitter:description" content="测试,资源分享,技术,媒体,安全,工具,影视">
 
 
 
@@ -147,7 +148,7 @@
 
 
 
-  <title>kllay</title>
+  <title>kllay个人博客</title>
   
 
 
@@ -188,12 +189,12 @@
     <div class="custom-logo-site-title">
       <a href="/" class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">kllay</span>
+        <span class="site-title">kllay个人博客</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
       
-        <p class="site-subtitle"></p>
+        <p class="site-subtitle">kllays</p>
       
   </div>
 
@@ -347,6 +348,206 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="https://kllay.github.io/2023/01/08/hexo更新ssh密钥为ed25519加密/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="kllay">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="/uploads/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="kllay个人博客">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2023/01/08/hexo更新ssh密钥为ed25519加密/" itemprop="url">hexo更新ssh密钥为ed25519加密</a></h1>
+        
+
+        <div class="post-meta">
+		
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2023-01-08T20:08:02+08:00">
+                2023-01-08
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/技术知识分享/" itemprop="url" rel="index">
+                    <span itemprop="name">技术知识分享</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+             <span id="/2023/01/08/hexo更新ssh密钥为ed25519加密/" class="leancloud_visitors" data-flag-title="hexo更新ssh密钥为ed25519加密">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+               
+                 <span class="post-meta-item-text">热度&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+				 <span>℃</span>
+             </span>
+          
+
+          
+
+          
+            <div class="post-wordcount">
+              
+                
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">字数统计&#58;</span>
+                
+                <span title="字数统计">
+                  1k 字
+                </span>
+              
+
+              
+                <span class="post-meta-divider">|</span>
+              
+
+              
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-clock-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">阅读时长 &asymp;</span>
+                
+                <span title="阅读时长">
+                  3 分钟
+                </span>
+              
+            </div>
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+          #hexo使用Rsa上传遇到错误后，更新ssh密钥为ed25519加密具体步骤
+介绍rsa加密为啥不可以了GitHub 通过在 2022 年 3 月 15 日删除旧的、不安全的密钥类型来提高安全性。自该日期起，不再支持 RSA 密钥 (ssh-dss)。 无法在 GitHub.com上向个人帐户添加
+          ...
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2023/01/08/hexo更新ssh密钥为ed25519加密/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+	
+	<div>
+      
+	</div>
+
+	<div>
+	
+	</div>
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="https://kllay.github.io/2023/01/08/Alist如何使用教程/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -356,7 +557,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="kllay">
+      <meta itemprop="name" content="kllay个人博客">
     </span>
 
     
@@ -555,7 +756,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="kllay">
+      <meta itemprop="name" content="kllay个人博客">
     </span>
 
     
@@ -770,7 +971,7 @@
               <img class="site-author-image" itemprop="image" src="/uploads/avatar.png" alt="kllay">
             
               <p class="site-author-name" itemprop="name">kllay</p>
-              <p class="site-description motion-element" itemprop="description">俱往矣，数风流人物，还看今朝。</p>
+              <p class="site-description motion-element" itemprop="description">测试,资源分享,技术,媒体,安全,工具,影视</p>
           </div>
 
           <nav class="site-state motion-element">
@@ -780,7 +981,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -791,7 +992,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -802,7 +1003,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -895,7 +1096,7 @@
     
       <span class="post-meta-item-text">Site words total count&#58;</span>
     
-    <span title="Site words total count">647</span>
+    <span title="Site words total count">1.7k</span>
   
 </div>
 
