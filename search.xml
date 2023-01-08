@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Alist如何使用教程]]></title>
+    <url>%2F2023%2F01%2F08%2FAlist%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[Alist能挂载众多流行网盘，并进行预览和不限速下载 扩充您的硬盘alist是什么？alist程序是一个免费的开源项目。一个支持多种存储，支持网页浏览和 WebDAV 的文件列表程序，由 gin 和 Solidjs 驱动。简单的来说就是能够帮助你管理各种网盘应用，类似于CloudDrive，AList除了支持网盘存储之外，还支持对象存储，本地存储，FTP等等 alist挂载后能干什么？ 1.可以对文本，word，pdf等文件，进行修改、保存的操作，实时同步。 2.可以直接观看视频文件，有些网盘没有预览功能，这个工具可以帮您实现预览 3.可以直接下载您网盘的文件，再用idm实现不限速下载 4.操作简单，相当于把所有网盘空间扩充到了您的电脑，增加了硬盘空间 下载alist选择windows的版本下载:下载地址 安装alist下载后解压到一个文件夹后，打开cmd命令，输入alist server第一次执行后，会有密码展示出来，要复制下来，后面会用到 在浏览器输入127.0.0.1:5244，进入后，用户名输入admin,密码为上面复制的，粘贴进去，点击登录 登录后点击下面的管理 添加左侧的储存，添加添加，可以添加常见的流行网盘，包括国外的微软、谷歌、yandex 网盘，国内的百度、阿里、夸克、蓝奏网盘，共20多种 这里选择一个百度网盘为例，挂载路径随便写 主要是令牌的获取 可以通过官方文档里面的连接获取官方文档地址 获取后添加到上面的令牌出，最后添加添加，添加成功后状态为work 在重新进入到首页http://127.0.0.1:5244/就可以看到添加的目录。进入后就可以访问网盘资源了 其他网盘的添加可以参考官方文档。快来自己试试吧。 注意：用完后，要取消百度网盘的授权可以到百度网盘的个人中心的授权管理里面取消alist授权即可。]]></content>
+      <categories>
+        <category>分享工具</category>
+      </categories>
+      <tags>
+        <tag>-alist -工具</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F04%2F13%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>测试类别</category>
+      </categories>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+</search>

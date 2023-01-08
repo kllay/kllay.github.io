@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kllay</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://kllay.github.io/"/>
+  <updated>2023-01-08T06:31:47.131Z</updated>
+  <id>https://kllay.github.io/</id>
+  
+  <author>
+    <name>kllay</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Alist如何使用教程</title>
+    <link href="https://kllay.github.io/2023/01/08/Alist%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    <id>https://kllay.github.io/2023/01/08/Alist如何使用教程/</id>
+    <published>2023-01-08T05:19:59.000Z</published>
+    <updated>2023-01-08T06:31:47.131Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Alist能挂载众多流行网盘，并进行预览和不限速下载-扩充您的硬盘"><a href="#Alist能挂载众多流行网盘，并进行预览和不限速下载-扩充您的硬盘" class="headerlink" title="Alist能挂载众多流行网盘，并进行预览和不限速下载 扩充您的硬盘"></a>Alist能挂载众多流行网盘，并进行预览和不限速下载 扩充您的硬盘</h1><h2 id="alist是什么？"><a href="#alist是什么？" class="headerlink" title="alist是什么？"></a>alist是什么？</h2><p>alist程序是一个免费的开源项目。<br>一个支持多种存储，支持网页浏览和 WebDAV 的文件列表程序，由 gin 和 Solidjs 驱动。简单的来说就是能够帮助你管理各种网盘应用，类似于CloudDrive，AList除了支持网盘存储之外，还支持对象存储，本地存储，FTP等等</p><h2 id="alist挂载后能干什么？"><a href="#alist挂载后能干什么？" class="headerlink" title="alist挂载后能干什么？"></a>alist挂载后能干什么？</h2><ul><li>1.可以对文本，word，pdf等文件，进行修改、保存的操作，实时同步。</li><li>2.可以直接观看视频文件，有些网盘没有预览功能，这个工具可以帮您实现预览</li><li>3.可以直接下载您网盘的文件，再用idm实现不限速下载</li><li>4.操作简单，相当于把所有网盘空间扩充到了您的电脑，增加了硬盘空间</li></ul><h2 id="下载alist"><a href="#下载alist" class="headerlink" title="下载alist"></a>下载alist</h2><p>选择windows的版本下载:<br><a href="https://github.com/alist-org/alist/releases" target="_blank" rel="noopener">下载地址</a><br><img src="/images/image/20230108/alist1.png" alt="地址图片"></p><h2 id="安装alist"><a href="#安装alist" class="headerlink" title="安装alist"></a>安装alist</h2><p>下载后解压到一个文件夹后，打开cmd命令，输入alist server<br>第一次执行后，会有密码展示出来，要复制下来，后面会用到<br><img src="/images/image/20230108/alist2.png" alt="地址图片"></p><p>在浏览器输入127.0.0.1:5244，进入后，用户名输入admin,密码为上面复制的，粘贴进去，点击登录<br><img src="/images/image/20230108/alist3.png" alt="地址图片"></p><p>登录后点击下面的管理<br><img src="/images/image/20230108/alist4.png" alt="地址图片"></p><p>添加左侧的储存，添加添加，可以添加常见的流行网盘，包括国外的微软、谷歌、yandex 网盘，国内的百度、阿里、夸克、蓝奏网盘，共20多种<br><img src="/images/image/20230108/alist5.png" alt="地址图片"></p><p>这里选择一个百度网盘为例，挂载路径随便写<br><img src="/images/image/20230108/alist6.png" alt="地址图片"></p><p>主要是令牌的获取<br><img src="/images/image/20230108/alist7.png" alt="地址图片"></p><p>可以通过官方文档里面的连接获取<br><a href="https://alist.nn.ci/guide/drivers/baidu.html" target="_blank" rel="noopener">官方文档地址</a><br><img src="/images/image/20230108/alist8.png" alt="地址图片"></p><p>获取后添加到上面的令牌出，最后添加添加，添加成功后状态为work<br><img src="/images/image/20230108/alist9.png" alt="地址图片"></p><p>在重新进入到首页<a href="http://127.0.0.1:5244/就可以看到添加的目录。进入后就可以访问网盘资源了" target="_blank" rel="noopener">http://127.0.0.1:5244/就可以看到添加的目录。进入后就可以访问网盘资源了</a><br><img src="/images/image/20230108/alist10.png" alt="地址图片"><br><img src="/images/image/20230108/alist11.png" alt="地址图片"></p><p>其他网盘的添加可以参考官方文档。<br>快来自己试试吧。</p><p>注意：<br>用完后，要取消百度网盘的授权可以到百度网盘的个人中心的授权管理里面取消alist授权即可。<br><img src="/images/image/20230108/alist12.png" alt="地址图片"><br><img src="/images/image/20230108/alist13.png" alt="地址图片"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Alist能挂载众多流行网盘，并进行预览和不限速下载-扩充您的硬盘&quot;&gt;&lt;a href=&quot;#Alist能挂载众多流行网盘，并进行预览和不限速下载-扩充您的硬盘&quot; class=&quot;headerlink&quot; title=&quot;Alist能挂载众多流行网盘，并进行预览和不限速下载
+      
+    
+    </summary>
+    
+      <category term="分享工具" scheme="https://kllay.github.io/categories/%E5%88%86%E4%BA%AB%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="-alist -工具" scheme="https://kllay.github.io/tags/alist-%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kllay.github.io/2019/04/13/hello-world/"/>
+    <id>https://kllay.github.io/2019/04/13/hello-world/</id>
+    <published>2019-04-13T15:38:16.031Z</published>
+    <updated>2023-01-08T05:25:31.012Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="测试类别" scheme="https://kllay.github.io/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB%E5%88%AB/"/>
+    
+    
+      <category term="Test" scheme="https://kllay.github.io/tags/Test/"/>
+    
+  </entry>
+  
+</feed>
