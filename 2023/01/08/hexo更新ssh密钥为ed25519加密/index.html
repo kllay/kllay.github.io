@@ -110,17 +110,18 @@
 <meta property="og:site_name" content="kllay个人博客">
 <meta property="og:description" content="#hexo使用Rsa上传遇到错误后，更新ssh密钥为ed25519加密具体步骤 介绍rsa加密为啥不可以了GitHub 通过在 2022 年 3 月 15 日删除旧的、不安全的密钥类型来提高安全性。自该日期起，不再支持 RSA 密钥 (ssh-dss)。 无法在 GitHub.com上向个人帐户添加新的 RSA 密钥 git配置1.git全局配置123git config --global use">
 <meta property="og:locale" content="zh-Hans">
+<meta property="og:image" content="https://kllay.github.io/images/image/20230108/hexogai7.png">
 <meta property="og:image" content="https://kllay.github.io/images/image/20230108/hexogai1.png">
 <meta property="og:image" content="https://kllay.github.io/images/image/20230108/hexogai2.png">
 <meta property="og:image" content="https://kllay.github.io/images/image/20230108/hexogai3.png">
 <meta property="og:image" content="https://kllay.github.io/images/image/20230108/hexogai4.png">
 <meta property="og:image" content="https://kllay.github.io/images/image/20230108/hexogai5.png">
 <meta property="og:image" content="https://kllay.github.io/images/image/20230108/hexogai6.png">
-<meta property="og:updated_time" content="2023-01-08T13:00:44.743Z">
+<meta property="og:updated_time" content="2023-01-09T07:25:31.934Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="hexo更新ssh密钥为ed25519加密">
 <meta name="twitter:description" content="#hexo使用Rsa上传遇到错误后，更新ssh密钥为ed25519加密具体步骤 介绍rsa加密为啥不可以了GitHub 通过在 2022 年 3 月 15 日删除旧的、不安全的密钥类型来提高安全性。自该日期起，不再支持 RSA 密钥 (ssh-dss)。 无法在 GitHub.com上向个人帐户添加新的 RSA 密钥 git配置1.git全局配置123git config --global use">
-<meta name="twitter:image" content="https://kllay.github.io/images/image/20230108/hexogai1.png">
+<meta name="twitter:image" content="https://kllay.github.io/images/image/20230108/hexogai7.png">
 
 
 
@@ -493,7 +494,13 @@
 <h2 id="git配置"><a href="#git配置" class="headerlink" title="git配置"></a>git配置</h2><p>1.git全局配置<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">git config --global user.name <span class="string">"moxun"</span></span><br><span class="line">git config --global user.email <span class="string">"xxx@xx.com"</span></span><br></pre></td></tr></table></figure></p>
 <p>2.删除旧的连接秘钥<br>cd c:/Users/你的电脑用户名/.ssh下<br>把known_hosts、id_rsa、id_rsa.pub 三个文件都删除</p>
 <p>3.生成秘钥<br>原来为：ssh-keygen -t rsa -C “Git邮箱地址” 这种不可以了。<br>现在为:ssh-keygen -t ed25519 -C “Git注册邮箱地址”<br>按三次回车enter键即可生成，这里一般不需要添加名称和密码</p>
-<p>4.查看生成的公钥，并配置到github你项目设置里面的ssh里面<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">cat ~/.ssh/id_ed25519.pub</span><br><span class="line">``` </span><br><span class="line">![地址图片](/images/image/20230108/hexogai7.png)</span><br><span class="line"></span><br><span class="line">5.将 SSH 密钥添加到 ssh-agent</span><br><span class="line">直接执行下面命令：</span><br><span class="line">``` bash</span><br><span class="line">ssh-add ~/.ssh/id_ed25519</span><br><span class="line">``` </span><br><span class="line">如果报错:Could not open a connection to your authentication agent</span><br><span class="line">可以先执行：</span><br><span class="line">``` bash</span><br><span class="line">ssh-agent bash</span><br><span class="line">``` </span><br><span class="line">在执行上面命令</span><br><span class="line"></span><br><span class="line">6.生成known_hosts文件</span><br><span class="line">在git bash下输入</span><br><span class="line">``` bash</span><br><span class="line">ssh -vT git@github.com</span><br></pre></td></tr></table></figure></p>
+<p>4.查看生成的公钥，并配置到github你项目设置里面的ssh里面</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat ~/.ssh/id_ed25519.pub</span><br></pre></td></tr></table></figure>
+<p><img src="/images/image/20230108/hexogai7.png" alt="地址图片"></p>
+<p>5.将 SSH 密钥添加到 ssh-agent<br>直接执行下面命令：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-add ~/.ssh/id_ed25519</span><br></pre></td></tr></table></figure></p>
+<p>如果报错:Could not open a connection to your authentication agent<br>可以先执行：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-agent bash</span><br></pre></td></tr></table></figure></p>
+<p>在执行上面命令</p>
+<p>6.生成known_hosts文件<br>在git bash下输入<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -vT git@github.com</span><br></pre></td></tr></table></figure></p>
 <p>命令执行成功后，如下图<br><img src="/images/image/20230108/hexogai1.png" alt="地址图片"></p>
 <p>7.添加本地仓库和远程仓库关系<br>git remote add origin <a href="mailto:git@github.com" target="_blank" rel="noopener">git@github.com</a>:项目名称/项目名称.github.io.git</p>
 <h2 id="个人令牌获取"><a href="#个人令牌获取" class="headerlink" title="个人令牌获取"></a>个人令牌获取</h2><p>为什么使用个人令牌？<br>当 Git 提示您输入密码时，请输入您的个人访问令牌。或者，您可以使用Git Credential Manager等凭证帮助程序。Git 的基于密码的身份验证已被删除，取而代之的是更安全的身份验证方法。</p>
@@ -573,7 +580,7 @@
   <p><span>本文标题:</span><a href="/2023/01/08/hexo更新ssh密钥为ed25519加密/">hexo更新ssh密钥为ed25519加密</a></p>
   <p><span>文章作者:</span><a href="/" title="访问 kllay 的个人博客">kllay</a></p>
   <p><span>发布时间:</span>2023年01月08日 - 20:08</p>
-  <p><span>最后更新:</span>2023年01月08日 - 21:00</p>
+  <p><span>最后更新:</span>2023年01月09日 - 15:25</p>
   <p><span>原始链接:</span><a href="/2023/01/08/hexo更新ssh密钥为ed25519加密/" title="hexo更新ssh密钥为ed25519加密">https://kllay.github.io/2023/01/08/hexo更新ssh密钥为ed25519加密/</a>
     <span class="copy-path" title="点击复制文章链接"><i class="fa fa-clipboard" data-clipboard-text="https://kllay.github.io/2023/01/08/hexo更新ssh密钥为ed25519加密/" aria-label="复制成功！"></i></span>
   </p>
