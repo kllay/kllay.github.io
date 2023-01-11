@@ -77,7 +77,7 @@
 <p>6.生成known_hosts文件<br>在git bash下输入</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -vT git@github.com</span><br></pre></td></tr></table></figure>
 <p>命令执行成功后，如下图<br><img data-src="/images/image/20230108/hexogai1.png" alt="地址图片"></p>
-<p>7.添加本地仓库和远程仓库关系<br>git remote add origin <span class="exturl" data-url="bWFpbHRvOiYjeDY3OyYjeDY5OyYjeDc0OyYjNjQ7JiN4Njc7JiN4Njk7JiN4NzQ7JiN4Njg7JiMxMTc7JiN4NjI7JiM0NjsmIzk5OyYjMTExOyYjeDZkOw==" title="mailto:&#x67;&#x69;&#x74;&#64;&#x67;&#x69;&#x74;&#x68;&#117;&#x62;&#46;&#99;&#111;&#x6d;">&#x67;&#x69;&#x74;&#64;&#x67;&#x69;&#x74;&#x68;&#117;&#x62;&#46;&#99;&#111;&#x6d;<i class="fa fa-external-link"></i></span>:项目名称&#x2F;项目名称.github.io.git</p>
+<p>7.添加本地仓库和远程仓库关系<br>git remote add origin <span class="exturl" data-url="bWFpbHRvOiYjMTAzOyYjMTA1OyYjeDc0OyYjeDQwOyYjMTAzOyYjeDY5OyYjMTE2OyYjMTA0OyYjeDc1OyYjOTg7JiM0NjsmI3g2MzsmI3g2ZjsmIzEwOTs=" title="mailto:&#103;&#105;&#x74;&#x40;&#103;&#x69;&#116;&#104;&#x75;&#98;&#46;&#x63;&#x6f;&#109;">&#103;&#105;&#x74;&#x40;&#103;&#x69;&#116;&#104;&#x75;&#98;&#46;&#x63;&#x6f;&#109;<i class="fa fa-external-link"></i></span>:项目名称&#x2F;项目名称.github.io.git</p>
 <h2 id="个人令牌获取"><a href="#个人令牌获取" class="headerlink" title="个人令牌获取"></a>个人令牌获取</h2><p>为什么使用个人令牌？<br>当 Git 提示您输入密码时，请输入您的个人访问令牌。或者，您可以使用Git Credential Manager等凭证帮助程序。Git 的基于密码的身份验证已被删除，取而代之的是更安全的身份验证方法。</p>
 <p>怎么获取个人令牌？<br>当 Git 提示您输入密码时，请输入您的个人访问令牌。或者，您可以使用Git Credential Manager等凭证帮助程序。Git 的基于密码的身份验证已被删除，取而代之的是更安全的身份验证方法。</p>
 <p>GitHub 目前支持两种类型的个人访问令牌：细粒度个人访问令牌和个人访问令牌（经典）。GitHub 建议您尽可能使用细粒度个人访问令牌而不是个人访问令牌（经典）。与个人访问令牌（经典）相比，细粒度个人访问令牌具有几个安全优势：<br>每个令牌只能访问单个用户或组织拥有的资源。<br>每个令牌只能访问特定的存储库。<br>每个令牌都被授予特定权限，这比授予个人访问令牌（经典）的范围提供更多控制。<br>每个令牌都必须有一个到期日期。<br>组织所有者可以要求批准任何可以访问组织资源的细粒度个人访问令牌。</p>
