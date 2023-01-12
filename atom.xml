@@ -6,7 +6,7 @@
   <link href="https://kllay.github.io/atom.xml" rel="self"/>
   
   <link href="https://kllay.github.io/"/>
-  <updated>2023-01-12T09:40:17.357Z</updated>
+  <updated>2023-01-12T13:53:22.794Z</updated>
   <id>https://kllay.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>个人综合开源工具免费试用</title>
+    <link href="https://kllay.github.io/news/3d282e7.html"/>
+    <id>https://kllay.github.io/news/3d282e7.html</id>
+    <published>2023-01-12T13:42:01.000Z</published>
+    <updated>2023-01-12T13:53:22.794Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本人c#开发的电脑桌面综合应用工具。目前为v1.0版本，免费开源，功能众多。写隐术，批量发邮件，各种加密解密工具等等。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p>暂时不更新</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>在内测中，敬请期待</p><h2 id="最新版本"><a href="#最新版本" class="headerlink" title="最新版本"></a>最新版本</h2><table>    <tr>        <td>version</td>         <td>1.0.0.1</td>    </tr></table>]]></content>
+    
+    
+    <summary type="html">本人c#开发的电脑桌面综合应用工具。目前为v1.0版本，免费开源，功能众多。写隐术，批量发邮件，各种加密解密工具等等。</summary>
+    
+    
+    
+    <category term="分享工具" scheme="https://kllay.github.io/categories/%E5%88%86%E4%BA%AB%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="工具" scheme="https://kllay.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="综合工具" scheme="https://kllay.github.io/tags/%E7%BB%BC%E5%90%88%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="c#开发工具" scheme="https://kllay.github.io/tags/c-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="桌面应用" scheme="https://kllay.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>微软官方免费一键加速工具没有广告便捷好用</title>
     <link href="https://kllay.github.io/news/fc682164.html"/>
     <id>https://kllay.github.io/news/fc682164.html</id>
     <published>2023-01-12T09:33:26.000Z</published>
-    <updated>2023-01-12T09:40:17.357Z</updated>
+    <updated>2023-01-12T09:40:27.493Z</updated>
     
     <content type="html"><![CDATA[<h2 id="微软电脑管家介绍"><a href="#微软电脑管家介绍" class="headerlink" title="微软电脑管家介绍"></a>微软电脑管家介绍</h2><p>微软电脑管家，微软官方自主研发的的全新桌面安全辅助类产品。 聚合微软 Windows 系统强大的底层研发能力，搭配微软独有反病毒引擎，全面构建电脑防护体系。微软电脑管家主打低占用，干净、不捆绑的产品特点，为用户提供电脑体检，反病毒，进程管理，启动项管理，电脑垃圾清理等功能</p><h2 id="主要特色功能："><a href="#主要特色功能：" class="headerlink" title="主要特色功能："></a>主要特色功能：</h2><ul><li>1.一键加速</li><li>2.进程管理</li><li>3.启动项管理</li><li>4.弹窗拦截</li><li>5.病毒扫描<br><img data-src="/images/image/20230212/wrgj1.png" alt="地址图片"><br><img data-src="/images/image/20230212/wrgj2.png" alt="地址图片"></li></ul><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址:"></a>下载地址:</h2><p><span class="exturl" data-url="aHR0cHM6Ly9wY21hbmFnZXIubWljcm9zb2Z0LmNvbS8/Y2hhbm5lbD0xMDAwMA==" title="https://pcmanager.microsoft.com/?channel=10000">电脑管家下载<i class="fa fa-external-link"></i></span></p>]]></content>
     

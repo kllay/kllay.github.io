@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kllay.github.io/news/3d282e7.html</loc>
+    
+    <lastmod>2023-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kllay.github.io/news/fc682164.html</loc>
     
     <lastmod>2023-01-12</lastmod>
@@ -188,6 +197,27 @@
   
   <url>
     <loc>https://kllay.github.io/tags/%E7%94%B5%E8%84%91%E7%AE%A1%E5%AE%B6/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kllay.github.io/tags/%E7%BB%BC%E5%90%88%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kllay.github.io/tags/c-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kllay.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
