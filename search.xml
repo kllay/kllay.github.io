@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Java代码混淆工具Allatori混淆jar包的简单使用方法</title>
+      <link href="/news/cc0b9c1a.html"/>
+      <url>/news/cc0b9c1a.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Allatori简介"><a href="#Allatori简介" class="headerlink" title="Allatori简介"></a>Allatori简介</h2><p>Allatori 是第二代 Java 混淆器，可为您的知识产权提供全方位的保护。<br>Allatori 不只是混淆，它还最小化应用程序大小，并提高速度，同时除了您和您​​的团队之外，任何人都无法读取您的代码。与每个现代 Java 混淆器一样，Allatori 具有完整的水印功能，可以为您的软件提供适当的许可！<br>如果您有必要保护您的软件，并且想要减小其大小和处理时间，那么 Allatori 混淆器非常适合您。</p><h2 id="Allatori使用step01混淆jar包执行文件的详细步骤如下"><a href="#Allatori使用step01混淆jar包执行文件的详细步骤如下" class="headerlink" title="Allatori使用step01混淆jar包执行文件的详细步骤如下"></a>Allatori使用step01混淆jar包执行文件的详细步骤如下</h2><h2 id="Allatori下载"><a href="#Allatori下载" class="headerlink" title="Allatori下载"></a>Allatori下载</h2><p>进入官网：<span class="exturl" data-url="aHR0cHM6Ly9hbGxhdG9yaS5jb20v" title="https://allatori.com/">https://allatori.com/<i class="fa fa-external-link"></i></span> 点击下载按钮<br><img data-src="/images/image/20230212/allatori1.png" alt="地址图片"></p><h2 id="Allatori配置"><a href="#Allatori配置" class="headerlink" title="Allatori配置"></a>Allatori配置</h2><ul><li>1.首先新建一个allatori文件夹</li><li>2.下载后，解压，找到allatori.jar文件并复制到allatori文件夹中</li><li>3.在解压的Allatori-8.4-Demo\tutorial\step01\files目录下，把Clean.bat、config.xml、RunAllatori.bat都复制到allatori文件夹中</li><li>4.把需要混淆代码的jar包复制到allatori文件夹中，比如我的是：main.jar</li><li>5.修改clean.bat代码为<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">del log.xml</span><br><span class="line">del obf-main.jar</span><br></pre></td></tr></table></figure></li><li>6.修改RunAllatori.bat代码为<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">java -Xms128m -Xmx512m -jar allatori.jar config.xml</span><br><span class="line">pause</span><br></pre></td></tr></table></figure></li><li>7.修改config.xml代码为<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">&lt;config&gt;</span><br><span class="line">    &lt;input&gt;</span><br><span class="line">        &lt;jar <span class="keyword">in</span>=<span class="string">&quot;main.jar&quot;</span> out=<span class="string">&quot;obf-main.jar&quot;</span>/&gt;</span><br><span class="line">    &lt;/input&gt;</span><br><span class="line"></span><br><span class="line">    &lt;keep-names&gt;</span><br><span class="line">        &lt;class access=<span class="string">&quot;protected+&quot;</span>&gt;</span><br><span class="line">            &lt;field access=<span class="string">&quot;protected+&quot;</span>/&gt;</span><br><span class="line">            &lt;method access=<span class="string">&quot;protected+&quot;</span>/&gt;</span><br><span class="line">        &lt;/class&gt;</span><br><span class="line">    &lt;/keep-names&gt;</span><br><span class="line"></span><br><span class="line">&lt;ignore-classes&gt;</span><br><span class="line">&lt;!--不混淆 引入的第三方jar包--&gt;</span><br><span class="line">&lt;class template=<span class="string">&quot;class *org*&quot;</span>/&gt;</span><br><span class="line">&lt;class template=<span class="string">&quot;class *com*&quot;</span>/&gt;</span><br><span class="line">&lt;class template=<span class="string">&quot;class *lib*&quot;</span>/&gt;</span><br><span class="line">&lt;/ignore-classes&gt;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"> &lt;classpath&gt;</span><br><span class="line">        &lt;!-- 将lib目录下的所有jar加入classpath --&gt;</span><br><span class="line">        &lt;jar name=<span class="string">&quot;lib/*.jar&quot;</span>/&gt;</span><br><span class="line">    &lt;/classpath&gt;</span><br><span class="line"></span><br><span class="line">    &lt;property name=<span class="string">&quot;log-file&quot;</span> value=<span class="string">&quot;log.xml&quot;</span>/&gt;</span><br><span class="line">&lt;/config&gt;</span><br></pre></td></tr></table></figure></li><li>8.在allatori文件夹下新建lib文件夹，把jdk文件夹下的jre和lib里面的所有jar包复制到该lib文件夹下。</li></ul><h2 id="Allatori混淆"><a href="#Allatori混淆" class="headerlink" title="Allatori混淆"></a>Allatori混淆</h2><ul><li>1.双击运行RunAllatori.bat文件，开始混淆main.jar代码</li><li>2.混淆完后，查看obf-main.jar 为混淆后的jar包文件</li></ul><h2 id="Allatori混淆其他方法"><a href="#Allatori混淆其他方法" class="headerlink" title="Allatori混淆其他方法"></a>Allatori混淆其他方法</h2><p>Allatori解压包下面有step01-step07，7中混淆方法，可以把里面的config.xml复制出来，自行修改。</p><p>最后大家有任何问题，欢迎留言，一起讨论。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术知识分享 </category>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+            <tag> Allatori </tag>
+            
+            <tag> 代码混淆 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>个人专用免费diy桌面管理工具</title>
       <link href="/news/415e823f.html"/>
       <url>/news/415e823f.html</url>
