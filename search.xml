@@ -1,258 +1,204 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/news/16107.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="edb72a631625b9219d557ebc14706333275be9e4ec4033ea68fc235d4bf82777">472f0d2124ee617a2f29ff331422d5d3b7a81f94806012cb3f3490f773a197b4d19e9eecd13361f6414083e3277208f2e81b72cd36c16e8784720486655872dc980b4483719afff7cb71e52f713d1a60d50f2349b9ef5a54424a00ca5976ea23bb7982da3f1275f8fedb4d53d1cb47e77a528fa919c58adbd4f7f52d081f2c92e62a36347259a161c67d76b4956bb5169f4abadba54c9defe824b38789e54d3e670c3990a41aef2ae1f4cdcafbcfc154a1af8af5266e1906f08043103c5263d91305a0b1741470e3adf5cdda7582a1299d19cb7036f6b3a47a403e8fad7afd3f69655e53510fdd95a96ecf10fc8ea90de86ef789b23413ed49b83ce5df3aa7e9db2da81b5980bf74ac1a1887f3df167324893b75ba3b6570a69985bcd9e55ef871e9b283fb39055df0f3bc927ae2391d0f758239812257e797d7de244113e49e3541041cba87c9cbfaaca3836acc826e2429691e9529a53c455a3c5fd35975daaad56c3fd749194773662705a6ee8f798cf23817b134c237d377d914ebddaee69e2f11b0bec65084c7a373399939cd5ec2262c0bf9d51d1bb26f0359549f61c9f0eb36fde85803da145bb819dc76092ec7fb957bd596ff4a9c16a84f1ac592cd88c178fc3af371704041670a7573ce483ed2058cc08ddefaf50206dff5676764a06fdb2172b48d5a8bb2ce9758fa33e4d1c28b2b3ebabf28fc94314bce8b0fd692ccfbb5a9fb69adcc4ae8208349355100dbe55da29d3d0afb950a8667c6a5fb180b1995f5512de5e8910ecb62b18e83725c5d300451e2b542e717020d63762c01d6ed0969aff1efe4fdd208b55cac956504d96d908716ce075f1741f8a9d4735f437651962360df77b54f4822b2e094b8ab758e41f48582e6a4a1abd9654aa51359ccf7b4eeab895f229e13ecc8efcf9a1518df9a2a76c6426aae29159212956a597b9f441f210590a15aea5dc14333add29770e6e07880ea954817f996957278de0e32ab7362f67289fae6979396e8fd572b1365db2730e2d924a8a3353ce10db54396983b41dba02927be79a2081cafcc53b1b72efbd5532dc73f5a34f8306a34d2cd0d609e1b737b4a51615d70b8e7bbec0e09b6a4f5a0f250443df7af4e0a56c562939ecf6c29776b866b75b9ac757d644805ce7f2d94f26b9702112edc17b21262053fa68f2b78a9b34c0845930cf04efaa121cfe08bc56bee4dff05eb1473e193a96f336b7cccd0e547feb09e4978dbf98a2d2021caf94813e557f36f2d67114894284d67e806943a383501e65a2abce8e6f2f952bd2e06174d6bc5af41a8b58802e3970e9c75323bc13e5276c56e3ae12bd77b839413e007300ce95a5228ae47e998543688fd96d3420f2d598a60d66d50fb9979d45939700aed91e5b2f4ba24b6e9297b5f15296881523ab9159685056c3e0d83ca766915d69b162edaaa89668530f28a49973c7ba36beaacb7819b956a18c43264de05f54010d88b102b22aa4ecaf4868c8230c823ff148fdfb784d63e9fe6121f6ccdf47ae15e61ff2fe1bc7d1706a6414d545419ff26cbd806a2062f8f0a8519aa37ec3f976d7550a5288de201ccb3764cfac8410fb3ee2176dfb173c2b7fb1ec690064896bd779066bc71c854c14dd4ecf06c1e9523947378bba6cb6018aebeef6de37a7c5817ae8bf98beae6f68a94fd43fa25d16e2cada4269fe5568fc040f68c666251d82fc1b1e1ba5acc764a3b1a62c3623dd3220e7a736b9207d35649b33bb0abb49bf213e2105d97fee1e1dce06eee132aeae9bb30179d81ba2f2cc190bbdcedae199c9f6b402b6e7802762a2397825cedc80aa3e6188a5e55f33d1e4718d4d98fad037c62dc93802dbdc07ab8b0e9942a86535308d2c4192629b9be7be5ef375d525e52d1bfd10c540d564c471ecf60ad840183ccebc1886395609994cd089ebb494231bbb0bacfdca2e19253b6319c5ac36d37a14e4726d0f5500f30d28326ec638208bb862de85a99096ecb653d4a87b70529165007600f8cf7c936ba193a3668a3483ebff766e6b250bca72e6142ed577928e1bd8f41bb45360bdcf3a9aa8210fb25e463f91f96054d6149f4f9e7e3713825d38d613a55d62afdc236f5e4ad32fc208a08b9872037ca27670a2c93bc328d8489160b860c187984cf93053e2cba427f914893bfd4cd31e01dd40bd17fabda0cf65eabac1af7810c93b21369f0ce5ef107e13875121c33cdf2a12f32112e0bd33abaece63b6147208e62400accc08ea2663a508ff99606b388b04bfd1b978bf0c98100eb0f66901198f6d082b4c5e45603df62f704cb6091662559e9301d3dd8427bb61484c833ec3df5c8b53dc387fd942706a27ecc9da519990c3a15d423e65ca37f05a1dd744f10fabd15713c98fc5e6de72c23d539ac1c1eed9834236dfc075789c093e3a3e734be97e1a34cd64d1a42077421318034a8f447c04fd7c3c9546ebf5a72f787357f56086a5705c1750c946d2312d3f7ce370f1872d188c4cf3c3268c206fd2bfa65ef8779bdd088851b58ea57bad63a88cd4dcf14617d4acebb932b4a574f3846bf432778c02ecd0b126bbc2536171599e2ccb9af7c647429987a212e0bce3fa3f63868ebc0eb516d118ab6dc06f9e16cb6dd8977d81ef25ad0550fefb713c9758d9338f9cfd618f54f7fa09d107f6d0861d450431d395f459be5ecaaf999b0c750881aa947e11b5b0d316920d225ed24c8943df165a81f17f487999e34f8c439e12f96f9dbc8122427a9ab71080f9fbcad56afb7c182ec5932ae7f4073847cd2ad5fdd9c20651d99bf84d2e4ad94e1673c052ee2f157128b4687da158594d64b3774d6fd9d9e4c39ab602d1205f81b563300a1db39c7fac5aacd319994dad68673978a47a2a6740fd91423c65214379c6e919455364c79d46c455a38083927645169ef72ca740486a82063de1968405e049eb730cb853a5fce0541b5ccae3ace5a54338897e480c55726726fa2131cfeb8fc6f1aac218f0dcc030e04ee5c721cdec37f9c945f9f64e681f1350874d7f56b1bd120fa23c10f0247b6a4089eeb1ac4826cc52c7c60e581f3196ec0aabeb70c02f1cc1787b8eaad797f6919fd1e7b8a0772cfbe8a23866888a0a252a8d2eb80d10121cf57d24fef70ee72fa8ad3413d4f7d69d44556d07810ec3635665240ce83bc0adea4ae92ace2bbc2c91b6017ba980209090864b77a7e36246521ae465d464bf29f4d86b8efb55d90416a27a94c8490d2102b190453aaa1b75385cedb9d59bbbe2e2dd39675c93134caa6e6f9271cbbec2e0bec21612a097c27864e98ee421ef0b7e7aae11e8e6257f00cf0f3d566fcb74006c69835f3b6993babba2b4b1635eeda97a458a868f2c3eb5961d3bbfd6aed5bd0eb52d34384cda3afcbba32bc81e6ac358ae105269692b480554e540736763044791c94ebc8b99c4324f400cf6845e4bf53bbff194d941d5f0d45b79dc21b8c7bbba38adc4a4ee7315f85006fa125dc554d0f1e751601b9dcb2752f227e8cbd1097939e42a849c64423f0131efbee1427f568b6874f51dc351efea1415c45e973b4b0a5e49d2134f799ed74722447c6160a1d16d49f1981d5aa3069f00559f352cd1ca0df408c1dfcabaaab5570c99bcfe5f6243339237ef3c13e4254452bc87a1a2338ff3fe54f4e7db495ac6288be211ae11da6647f43c079bb74d2c8a6bcc1cd3e49c0b8d3b8fb5871699934ab9e2f14c53feb6106036f8bcb57ca65d704cb996f8cd8278942c649568a71f56b4a94aa2545902bcaea214a36103a4cecbd9b427260724b59a30c123523cd4d36edeffc692b3feb55e783f66a3fbccc040cce0e6b4d20b2c2c0429cfbe7f2dafc61be716c891d1af0ab868c9088ec2f5d5e42f2ac5b66be5d4f5fb21bfc586b1878e83af236fdf6f546ee827144ec3067a6cd3d00bb0b9d34e6a38ff3744d74633c6b29b5b31860140e49a8f093e277b9ce9dca61f368ecb549feec5eac31537e6175c0cf62408335b497a2ce96fee0c4f0445645b6ea03b5ea40d216e59a1b07e4983704bca862cf7ac738f9e7db01cabd739a933c9280617ad3820e66308318e1ac53c8eca449197d8aab99339f138419bd1debbbda1d49bc388c540824aaa548137787abaee4f708f3dc4420c714c42347705742c63eaa324436c9e5478802ef506f65daff6057c082967acf7cb88e0683d22b1e84deb0c06c63b6070e2c61c3d780bb6fdbe6a6f5d61ef5e132dd8deb61f7c4425f2620f138b5f2bc8efa494b2b6e5246ba9d79834c6e885d7e869bd170badaa2ab00140a8b313b691617f16ae9cb9fc626bad7379e4972dee754c040d21cd3bf492cd27d9af58fbd7e704cf51602ac228355185c8fc66ef73d89b19baaac6a3bded5ee9f88123b23a3258fa1651f898dcb7162cfabc888979eecc304b4bf</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>个人综合开源工具免费试用</title>
+      <link href="/news/3d282e7.html"/>
+      <url>/news/3d282e7.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本人c#开发的电脑桌面综合应用工具。目前为v1.0版本，免费开源，功能众多。写隐术，批量发邮件，各种加密解密工具等等。</p><h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p>暂时不更新</p><h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>在内测中，敬请期待</p><h2 id="最新版本"><a href="#最新版本" class="headerlink" title="最新版本"></a>最新版本</h2><table>    <tr>        <td>version</td>         <td>1.0.0.0</td>    </tr></table>]]></content>
+      
+      
       <categories>
-        <category>测试类别</category>
+          
+          <category> 分享工具 </category>
+          
       </categories>
-      <tags>
-        <tag>Test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Alist如何使用教程</title>
-    <url>/news/3475.html</url>
-    <content><![CDATA[<h1 id="Alist能挂载众多流行网盘，并进行预览和不限速下载-扩充您的硬盘"><a href="#Alist能挂载众多流行网盘，并进行预览和不限速下载-扩充您的硬盘" class="headerlink" title="Alist能挂载众多流行网盘，并进行预览和不限速下载 扩充您的硬盘"></a>Alist能挂载众多流行网盘，并进行预览和不限速下载 扩充您的硬盘</h1><h2 id="alist是什么？"><a href="#alist是什么？" class="headerlink" title="alist是什么？"></a>alist是什么？</h2><p>alist程序是一个免费的开源项目。<br>一个支持多种存储，支持网页浏览和 WebDAV 的文件列表程序，由 gin 和 Solidjs 驱动。简单的来说就是能够帮助你管理各种网盘应用，类似于CloudDrive，AList除了支持网盘存储之外，还支持对象存储，本地存储，FTP等等</p>
-<span id="more"></span>
-
-<h2 id="alist挂载后能干什么？"><a href="#alist挂载后能干什么？" class="headerlink" title="alist挂载后能干什么？"></a>alist挂载后能干什么？</h2><ul>
-<li>1.可以对文本，word，pdf等文件，进行修改、保存的操作，实时同步。</li>
-<li>2.可以直接观看视频文件，有些网盘没有预览功能，这个工具可以帮您实现预览</li>
-<li>3.可以直接下载您网盘的文件，再用idm实现不限速下载</li>
-<li>4.操作简单，相当于把所有网盘空间扩充到了您的电脑，增加了硬盘空间</li>
-</ul>
-<h2 id="下载alist"><a href="#下载alist" class="headerlink" title="下载alist"></a>下载alist</h2><p>选择windows的版本下载:<br><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FsaXN0LW9yZy9hbGlzdC9yZWxlYXNlcw==" title="https://github.com/alist-org/alist/releases">下载地址<i class="fa fa-external-link"></i></span><br><img data-src="/images/image/20230108/alist1.png" alt="地址图片"></p>
-<h2 id="安装alist"><a href="#安装alist" class="headerlink" title="安装alist"></a>安装alist</h2><p>下载后解压到一个文件夹后，打开cmd命令，输入alist server<br>第一次执行后，会有密码展示出来，要复制下来，后面会用到<br><img data-src="/images/image/20230108/alist2.png" alt="地址图片"></p>
-<p>在浏览器输入127.0.0.1:5244，进入后，用户名输入admin,密码为上面复制的，粘贴进去，点击登录<br><img data-src="/images/image/20230108/alist3.png" alt="地址图片"></p>
-<p>登录后点击下面的管理<br><img data-src="/images/image/20230108/alist4.png" alt="地址图片"></p>
-<p>添加左侧的储存，添加添加，可以添加常见的流行网盘，包括国外的微软、谷歌、yandex 网盘，国内的百度、阿里、夸克、蓝奏网盘，共20多种<br><img data-src="/images/image/20230108/alist5.png" alt="地址图片"></p>
-<p>这里选择一个百度网盘为例，挂载路径随便写<br><img data-src="/images/image/20230108/alist6.png" alt="地址图片"></p>
-<p>主要是令牌的获取<br><img data-src="/images/image/20230108/alist7.png" alt="地址图片"></p>
-<p>可以通过官方文档里面的连接获取<br><span class="exturl" data-url="aHR0cHM6Ly9hbGlzdC5ubi5jaS9ndWlkZS9kcml2ZXJzL2JhaWR1Lmh0bWw=" title="https://alist.nn.ci/guide/drivers/baidu.html">官方文档地址<i class="fa fa-external-link"></i></span><br><img data-src="/images/image/20230108/alist8.png" alt="地址图片"></p>
-<p>获取后添加到上面的令牌出，最后添加添加，添加成功后状态为work<br><img data-src="/images/image/20230108/alist9.png" alt="地址图片"></p>
-<p>在重新进入到首页<span class="exturl" data-url="aHR0cDovLzEyNy4wLjAuMTo1MjQ0LyVFNSVCMCVCMSVFNSU4RiVBRiVFNCVCQiVBNSVFNyU5QyU4QiVFNSU4OCVCMCVFNiVCNyVCQiVFNSU4QSVBMCVFNyU5QSU4NCVFNyU5QiVBRSVFNSVCRCU5NSVFMyU4MCU4MiVFOCVCRiU5QiVFNSU4NSVBNSVFNSU5MCU4RSVFNSVCMCVCMSVFNSU4RiVBRiVFNCVCQiVBNSVFOCVBRSVCRiVFOSU5NyVBRSVFNyVCRCU5MSVFNyU5QiU5OCVFOCVCNSU4NCVFNiVCQSU5MCVFNCVCQSU4Ng==" title="http://127.0.0.1:5244/%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E6%B7%BB%E5%8A%A0%E7%9A%84%E7%9B%AE%E5%BD%95%E3%80%82%E8%BF%9B%E5%85%A5%E5%90%8E%E5%B0%B1%E5%8F%AF%E4%BB%A5%E8%AE%BF%E9%97%AE%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E4%BA%86">http://127.0.0.1:5244/就可以看到添加的目录。进入后就可以访问网盘资源了<i class="fa fa-external-link"></i></span><br><img data-src="/images/image/20230108/alist10.png" alt="地址图片"><br><img data-src="/images/image/20230108/alist11.png" alt="地址图片"></p>
-<p>其他网盘的添加可以参考官方文档。<br>快来自己试试吧。</p>
-<p>注意：<br>用完后，要取消百度网盘的授权可以到百度网盘的个人中心的授权管理里面取消alist授权即可。<br><img data-src="/images/image/20230108/alist12.png" alt="地址图片"><br><img data-src="/images/image/20230108/alist13.png" alt="地址图片"></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+            <tag> 综合工具 </tag>
+            
+            <tag> c#开发工具 </tag>
+            
+            <tag> 桌面应用 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微软官方免费一键加速工具没有广告便捷好用</title>
+      <link href="/news/fc682164.html"/>
+      <url>/news/fc682164.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="微软电脑管家介绍"><a href="#微软电脑管家介绍" class="headerlink" title="微软电脑管家介绍"></a>微软电脑管家介绍</h2><p>微软电脑管家，微软官方自主研发的的全新桌面安全辅助类产品。 聚合微软 Windows 系统强大的底层研发能力，搭配微软独有反病毒引擎，全面构建电脑防护体系。微软电脑管家主打低占用，干净、不捆绑的产品特点，为用户提供电脑体检，反病毒，进程管理，启动项管理，电脑垃圾清理等功能</p><h2 id="主要特色功能："><a href="#主要特色功能：" class="headerlink" title="主要特色功能："></a>主要特色功能：</h2><ul><li>1.一键加速</li><li>2.进程管理</li><li>3.启动项管理</li><li>4.弹窗拦截</li><li>5.病毒扫描<br><img data-src="/images/image/20230212/wrgj1.png" alt="地址图片"><br><img data-src="/images/image/20230212/wrgj2.png" alt="地址图片"></li></ul><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址:"></a>下载地址:</h2><p><span class="exturl" data-url="aHR0cHM6Ly9wY21hbmFnZXIubWljcm9zb2Z0LmNvbS8/Y2hhbm5lbD0xMDAwMA==" title="https://pcmanager.microsoft.com/?channel=10000">电脑管家下载<i class="fa fa-external-link"></i></span></p>]]></content>
+      
+      
       <categories>
-        <category>分享工具</category>
+          
+          <category> 分享工具 </category>
+          
       </categories>
-      <tags>
-        <tag>alist</tag>
-        <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo更新ssh密钥为ed25519加密</title>
-    <url>/news/54704.html</url>
-    <content><![CDATA[<p>#hexo使用Rsa上传遇到错误后，更新ssh密钥为ed25519加密具体步骤</p>
-<h2 id="介绍rsa加密为啥不可以了"><a href="#介绍rsa加密为啥不可以了" class="headerlink" title="介绍rsa加密为啥不可以了"></a>介绍rsa加密为啥不可以了</h2><p>GitHub 通过在 2022 年 3 月 15 日删除旧的、不安全的密钥类型来提高安全性。自该日期起，不再支持 RSA 密钥 (ssh-dss)。 无法在 GitHub.com上向个人帐户添加新的 RSA 密钥</p>
-<span id="more"></span>
-
-<h2 id="git配置"><a href="#git配置" class="headerlink" title="git配置"></a>git配置</h2><p>1.git全局配置</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">git config --global user.name <span class="string">&quot;moxun&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;xxx@xx.com&quot;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p>2.删除旧的连接秘钥<br>cd c:&#x2F;Users&#x2F;你的电脑用户名&#x2F;.ssh下<br>把known_hosts、id_rsa、id_rsa.pub 三个文件都删除</p>
-<p>3.生成秘钥<br>原来为：ssh-keygen -t rsa -C “Git邮箱地址” 这种不可以了。<br>现在为:ssh-keygen -t ed25519 -C “Git注册邮箱地址”<br>按三次回车enter键即可生成，这里一般不需要添加名称和密码</p>
-<p>4.查看生成的公钥，并配置到github你项目设置里面的ssh里面</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cat</span> ~/.ssh/id_ed25519.pub</span><br></pre></td></tr></table></figure>
-
-<p><img data-src="/images/image/20230108/hexogai7.png" alt="地址图片"></p>
-<p>5.将 SSH 密钥添加到 ssh-agent<br>直接执行下面命令：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-add ~/.ssh/id_ed25519</span><br></pre></td></tr></table></figure>
-<p>如果报错:Could not open a connection to your authentication agent<br>可以先执行：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-agent bash</span><br></pre></td></tr></table></figure>
-<p>在执行上面命令</p>
-<p>6.生成known_hosts文件<br>在git bash下输入</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -vT git@github.com</span><br></pre></td></tr></table></figure>
-<p>命令执行成功后，如下图<br><img data-src="/images/image/20230108/hexogai1.png" alt="地址图片"></p>
-<p>7.添加本地仓库和远程仓库关系<br>git remote add origin <span class="exturl" data-url="bWFpbHRvOiYjMTAzOyYjeDY5OyYjeDc0OyYjeDQwOyYjMTAzOyYjMTA1OyYjMTE2OyYjeDY4OyYjMTE3OyYjOTg7JiM0NjsmIzk5OyYjMTExOyYjMTA5Ow==" title="mailto:&#103;&#x69;&#x74;&#x40;&#103;&#105;&#116;&#x68;&#117;&#98;&#46;&#99;&#111;&#109;">&#103;&#x69;&#x74;&#x40;&#103;&#105;&#116;&#x68;&#117;&#98;&#46;&#99;&#111;&#109;<i class="fa fa-external-link"></i></span>:项目名称&#x2F;项目名称.github.io.git</p>
-<h2 id="个人令牌获取"><a href="#个人令牌获取" class="headerlink" title="个人令牌获取"></a>个人令牌获取</h2><p>为什么使用个人令牌？<br>当 Git 提示您输入密码时，请输入您的个人访问令牌。或者，您可以使用Git Credential Manager等凭证帮助程序。Git 的基于密码的身份验证已被删除，取而代之的是更安全的身份验证方法。</p>
-<p>怎么获取个人令牌？<br>当 Git 提示您输入密码时，请输入您的个人访问令牌。或者，您可以使用Git Credential Manager等凭证帮助程序。Git 的基于密码的身份验证已被删除，取而代之的是更安全的身份验证方法。</p>
-<p>GitHub 目前支持两种类型的个人访问令牌：细粒度个人访问令牌和个人访问令牌（经典）。GitHub 建议您尽可能使用细粒度个人访问令牌而不是个人访问令牌（经典）。与个人访问令牌（经典）相比，细粒度个人访问令牌具有几个安全优势：<br>每个令牌只能访问单个用户或组织拥有的资源。<br>每个令牌只能访问特定的存储库。<br>每个令牌都被授予特定权限，这比授予个人访问令牌（经典）的范围提供更多控制。<br>每个令牌都必须有一个到期日期。<br>组织所有者可以要求批准任何可以访问组织资源的细粒度个人访问令牌。</p>
-<p>此外，组织所有者可以限制个人访问令牌（经典）对其组织的访问。</p>
-<p>作为安全预防措施，GitHub 会自动删除一年内未使用的个人访问令牌。为了提供额外的安全性，我们强烈建议为您的个人访问令牌添加到期时间。</p>
-<ul>
-<li><p>1.验证您的电子邮件地址（如果尚未验证）。</p>
-</li>
-<li><p>2.在任意页面的右上角，点击您的个人资料照片，然后点击设置。<br><img data-src="/images/image/20230108/hexogai2.png" alt="图片"></p>
-</li>
-<li><p>3.在左侧边栏中，单击Developer settings。</p>
-</li>
-<li><p>4.在左侧边栏中的Personal access tokens下，单击Tokens (classic)。</p>
-</li>
-<li><p>5.选择Generate new token，然后点击Generate new token (classic)。</p>
-</li>
-<li><p>6.为您的令牌指定一个描述性名称。<br><img data-src="/images/image/20230108/hexogai3.png" alt="图片"></p>
-</li>
-<li><p>7.要让您的令牌过期，请选择“过期”下拉菜单，然后单击默认值或使用日历选择器。<br><img data-src="/images/image/20230108/hexogai4.png" alt="图片"></p>
-</li>
-</ul>
-<p>+8.选择您要授予此令牌的范围。要使用您的令牌从命令行访问存储库，请选择repo。没有分配范围的令牌只能访问公共信息。有关详细信息，请参阅“<span class="exturl" data-url="aHR0cHM6Ly9kb2NzLmdpdGh1Yi5jb20vZW4vZGV2ZWxvcGVycy9hcHBzL2J1aWxkaW5nLW9hdXRoLWFwcHMvc2NvcGVzLWZvci1vYXV0aC1hcHBzI2F2YWlsYWJsZS1zY29wZXM=" title="https://docs.github.com/en/developers/apps/building-oauth-apps/scopes-for-oauth-apps#available-scopes">可用范围<i class="fa fa-external-link"></i></span>”。<br><img data-src="/images/image/20230108/hexogai5.png" alt="图片"></p>
-<ul>
-<li><p>9.单击生成令牌。<br><img data-src="/images/image/20230108/hexogai6.png" alt="图片"></p>
-</li>
-<li><p>10.生成的令牌要复制保存好。以后就不可见了。</p>
-</li>
-</ul>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 微软 </tag>
+            
+            <tag> 电脑管家 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Java代码混淆工具Allatori混淆jar包的简单使用方法</title>
+      <link href="/news/cc0b9c1a.html"/>
+      <url>/news/cc0b9c1a.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Allatori简介"><a href="#Allatori简介" class="headerlink" title="Allatori简介"></a>Allatori简介</h2><p>Allatori 是第二代 Java 混淆器，可为您的知识产权提供全方位的保护。<br>Allatori 不只是混淆，它还最小化应用程序大小，并提高速度，同时除了您和您​​的团队之外，任何人都无法读取您的代码。与每个现代 Java 混淆器一样，Allatori 具有完整的水印功能，可以为您的软件提供适当的许可！<br>如果您有必要保护您的软件，并且想要减小其大小和处理时间，那么 Allatori 混淆器非常适合您。</p><h2 id="Allatori使用step01混淆jar包执行文件的详细步骤如下"><a href="#Allatori使用step01混淆jar包执行文件的详细步骤如下" class="headerlink" title="Allatori使用step01混淆jar包执行文件的详细步骤如下"></a>Allatori使用step01混淆jar包执行文件的详细步骤如下</h2><h2 id="Allatori下载"><a href="#Allatori下载" class="headerlink" title="Allatori下载"></a>Allatori下载</h2><p>进入官网：<span class="exturl" data-url="aHR0cHM6Ly9hbGxhdG9yaS5jb20v" title="https://allatori.com/">https://allatori.com/<i class="fa fa-external-link"></i></span> 点击下载按钮<br><img data-src="/images/image/20230212/allatori1.png" alt="地址图片"></p><h2 id="Allatori配置"><a href="#Allatori配置" class="headerlink" title="Allatori配置"></a>Allatori配置</h2><ul><li>1.首先新建一个allatori文件夹</li><li>2.下载后，解压，找到allatori.jar文件并复制到allatori文件夹中</li><li>3.在解压的Allatori-8.4-Demo\tutorial\step01\files目录下，把Clean.bat、config.xml、RunAllatori.bat都复制到allatori文件夹中</li><li>4.把需要混淆代码的jar包复制到allatori文件夹中，比如我的是：main.jar</li><li>5.修改clean.bat代码为<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">del log.xml</span><br><span class="line">del obf-main.jar</span><br></pre></td></tr></table></figure></li><li>6.修改RunAllatori.bat代码为<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">java -Xms128m -Xmx512m -jar allatori.jar config.xml</span><br><span class="line">pause</span><br></pre></td></tr></table></figure></li><li>7.修改config.xml代码为<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">&lt;config&gt;</span><br><span class="line">    &lt;input&gt;</span><br><span class="line">        &lt;jar <span class="keyword">in</span>=<span class="string">&quot;main.jar&quot;</span> out=<span class="string">&quot;obf-main.jar&quot;</span>/&gt;</span><br><span class="line">    &lt;/input&gt;</span><br><span class="line"></span><br><span class="line">    &lt;keep-names&gt;</span><br><span class="line">        &lt;class access=<span class="string">&quot;protected+&quot;</span>&gt;</span><br><span class="line">            &lt;field access=<span class="string">&quot;protected+&quot;</span>/&gt;</span><br><span class="line">            &lt;method access=<span class="string">&quot;protected+&quot;</span>/&gt;</span><br><span class="line">        &lt;/class&gt;</span><br><span class="line">    &lt;/keep-names&gt;</span><br><span class="line"></span><br><span class="line">&lt;ignore-classes&gt;</span><br><span class="line">&lt;!--不混淆 引入的第三方jar包--&gt;</span><br><span class="line">&lt;class template=<span class="string">&quot;class *org*&quot;</span>/&gt;</span><br><span class="line">&lt;class template=<span class="string">&quot;class *com*&quot;</span>/&gt;</span><br><span class="line">&lt;class template=<span class="string">&quot;class *lib*&quot;</span>/&gt;</span><br><span class="line">&lt;/ignore-classes&gt;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"> &lt;classpath&gt;</span><br><span class="line">        &lt;!-- 将lib目录下的所有jar加入classpath --&gt;</span><br><span class="line">        &lt;jar name=<span class="string">&quot;lib/*.jar&quot;</span>/&gt;</span><br><span class="line">    &lt;/classpath&gt;</span><br><span class="line"></span><br><span class="line">    &lt;property name=<span class="string">&quot;log-file&quot;</span> value=<span class="string">&quot;log.xml&quot;</span>/&gt;</span><br><span class="line">&lt;/config&gt;</span><br></pre></td></tr></table></figure></li><li>8.在allatori文件夹下新建lib文件夹，把jdk文件夹下的jre和lib里面的所有jar包复制到该lib文件夹下。</li></ul><h2 id="Allatori混淆"><a href="#Allatori混淆" class="headerlink" title="Allatori混淆"></a>Allatori混淆</h2><ul><li>1.双击运行RunAllatori.bat文件，开始混淆main.jar代码</li><li>2.混淆完后，查看obf-main.jar 为混淆后的jar包文件</li></ul><h2 id="Allatori混淆其他方法"><a href="#Allatori混淆其他方法" class="headerlink" title="Allatori混淆其他方法"></a>Allatori混淆其他方法</h2><p>Allatori解压包下面有step01-step07，7中混淆方法，可以把里面的config.xml复制出来，自行修改。</p><p>最后大家有任何问题，欢迎留言，一起讨论。</p>]]></content>
+      
+      
       <categories>
-        <category>技术知识分享</category>
+          
+          <category> 技术知识分享 </category>
+          
+          <category> java </category>
+          
       </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>技术分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人专用免费diy桌面管理工具</title>
-    <url>/news/415e823f.html</url>
-    <content><![CDATA[<h2 id="diy桌面管理应用介绍"><a href="#diy桌面管理应用介绍" class="headerlink" title="diy桌面管理应用介绍"></a>diy桌面管理应用介绍</h2><p>本人java+swing开发的电脑桌面应用管理小工具。目前为v1.0版本，主要功能可以在电脑左右上贴边自动隐藏和显示，能够进行分组展示，可以自由更改作者和联系方式，可以自定义不同页面的背景图</p>
-<h2 id="下面展示主要文件："><a href="#下面展示主要文件：" class="headerlink" title="下面展示主要文件："></a>下面展示主要文件：</h2><h3 id="文件介绍："><a href="#文件介绍：" class="headerlink" title="文件介绍："></a>文件介绍：</h3><ul>
-<li><ol>
-<li>configs 里面的配置文件可以修改自定义信息</li>
-</ol>
-</li>
-<li><ol start="2">
-<li>image 存放应用背景图和logo</li>
-</ol>
-</li>
-<li><ol start="3">
-<li>tools  可以把桌面快捷图标，文件夹等放到这个下面统一管理</li>
-</ol>
-</li>
-<li><ol start="4">
-<li>start.vbs 启动应用程序</li>
-</ol>
-</li>
-<li><ol start="5">
-<li>toolsconfigs.db 应用数据存储数据库文件<br><img data-src="/images/image/20230212/yytool1.png" alt="地址图片"></li>
-</ol>
-</li>
-</ul>
-<h2 id="下面展示应用截图："><a href="#下面展示应用截图：" class="headerlink" title="下面展示应用截图："></a>下面展示应用截图：</h2><h3 id="登录页面"><a href="#登录页面" class="headerlink" title="登录页面"></a>登录页面</h3><p><img data-src="/images/image/20230212/yytool2.png" alt="地址图片"></p>
-<h3 id="注册页面"><a href="#注册页面" class="headerlink" title="注册页面"></a>注册页面</h3><p><img data-src="/images/image/20230212/yytool3.png" alt="地址图片"></p>
-<h3 id="应用管理页面"><a href="#应用管理页面" class="headerlink" title="应用管理页面"></a>应用管理页面</h3><p><img data-src="/images/image/20230212/yytool4.png" alt="地址图片"></p>
-<h3 id="可以按文件导入或者按照目录批量导入"><a href="#可以按文件导入或者按照目录批量导入" class="headerlink" title="可以按文件导入或者按照目录批量导入"></a>可以按文件导入或者按照目录批量导入</h3><p><img data-src="/images/image/20230212/yytool5.png" alt="地址图片"></p>
-<h3 id="关于作者页面"><a href="#关于作者页面" class="headerlink" title="关于作者页面"></a>关于作者页面</h3><p><img data-src="/images/image/20230212/yytool6.png" alt="地址图片"></p>
-<h3 id="配置信息页面"><a href="#配置信息页面" class="headerlink" title="配置信息页面"></a>配置信息页面</h3><p><img data-src="/images/image/20230212/yytool7.png" alt="地址图片"></p>
-<h3 id="配置信息详细介绍"><a href="#配置信息详细介绍" class="headerlink" title="配置信息详细介绍"></a>配置信息详细介绍</h3><p>Defaultlogo  配置应用logo图片路径</p>
-<p>Dragbgfile  配置应用主界面的背景图片路径</p>
-<p>Uninstallimage  配置应用卸载后，默认展示图片路径</p>
-<p>Loginback  配置应用登录页面的背景图片路径</p>
-<p>Registerback  配置注册页面的背景图片路径</p>
-<p>Authorback  配置关于页面的背景图片路径</p>
-<p>Authorname  配置作者名称</p>
-<p>Authorcontact 配置作者联系方式 注意：格式为:<br/>信息</p>
-<p>[applicationgroup] 下面的配置信息不要动</p>
-<p>最后欢迎大家来使用，如果有任何问题，请联系管理员。</p>
-<h2 id="下载地址为："><a href="#下载地址为：" class="headerlink" title="下载地址为："></a>下载地址为：</h2><p>关注公众号：技术猪管，回复：tool 或者 mytools</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+            <tag> Allatori </tag>
+            
+            <tag> 代码混淆 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人专用免费diy桌面管理工具</title>
+      <link href="/news/415e823f.html"/>
+      <url>/news/415e823f.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="diy桌面管理应用介绍"><a href="#diy桌面管理应用介绍" class="headerlink" title="diy桌面管理应用介绍"></a>diy桌面管理应用介绍</h2><p>本人java+swing开发的电脑桌面应用管理小工具。目前为v1.0版本，主要功能可以在电脑左右上贴边自动隐藏和显示，能够进行分组展示，可以自由更改作者和联系方式，可以自定义不同页面的背景图</p><h2 id="下面展示主要文件："><a href="#下面展示主要文件：" class="headerlink" title="下面展示主要文件："></a>下面展示主要文件：</h2><h3 id="文件介绍："><a href="#文件介绍：" class="headerlink" title="文件介绍："></a>文件介绍：</h3><ul><li><ol><li>configs 里面的配置文件可以修改自定义信息</li></ol></li><li><ol start="2"><li>image 存放应用背景图和logo</li></ol></li><li><ol start="3"><li>tools  可以把桌面快捷图标，文件夹等放到这个下面统一管理</li></ol></li><li><ol start="4"><li>start.vbs 启动应用程序</li></ol></li><li><ol start="5"><li>toolsconfigs.db 应用数据存储数据库文件<br><img data-src="/images/image/20230212/yytool1.png" alt="地址图片"></li></ol></li></ul><h2 id="下面展示应用截图："><a href="#下面展示应用截图：" class="headerlink" title="下面展示应用截图："></a>下面展示应用截图：</h2><h3 id="登录页面"><a href="#登录页面" class="headerlink" title="登录页面"></a>登录页面</h3><p><img data-src="/images/image/20230212/yytool2.png" alt="地址图片"></p><h3 id="注册页面"><a href="#注册页面" class="headerlink" title="注册页面"></a>注册页面</h3><p><img data-src="/images/image/20230212/yytool3.png" alt="地址图片"></p><h3 id="应用管理页面"><a href="#应用管理页面" class="headerlink" title="应用管理页面"></a>应用管理页面</h3><p><img data-src="/images/image/20230212/yytool4.png" alt="地址图片"></p><h3 id="可以按文件导入或者按照目录批量导入"><a href="#可以按文件导入或者按照目录批量导入" class="headerlink" title="可以按文件导入或者按照目录批量导入"></a>可以按文件导入或者按照目录批量导入</h3><p><img data-src="/images/image/20230212/yytool5.png" alt="地址图片"></p><h3 id="关于作者页面"><a href="#关于作者页面" class="headerlink" title="关于作者页面"></a>关于作者页面</h3><p><img data-src="/images/image/20230212/yytool6.png" alt="地址图片"></p><h3 id="配置信息页面"><a href="#配置信息页面" class="headerlink" title="配置信息页面"></a>配置信息页面</h3><p><img data-src="/images/image/20230212/yytool7.png" alt="地址图片"></p><h3 id="配置信息详细介绍"><a href="#配置信息详细介绍" class="headerlink" title="配置信息详细介绍"></a>配置信息详细介绍</h3><p>Defaultlogo  配置应用logo图片路径</p><p>Dragbgfile  配置应用主界面的背景图片路径</p><p>Uninstallimage  配置应用卸载后，默认展示图片路径</p><p>Loginback  配置应用登录页面的背景图片路径</p><p>Registerback  配置注册页面的背景图片路径</p><p>Authorback  配置关于页面的背景图片路径</p><p>Authorname  配置作者名称</p><p>Authorcontact 配置作者联系方式 注意：格式为:<br/>信息</p><p>[applicationgroup] 下面的配置信息不要动</p><p>最后欢迎大家来使用，如果有任何问题，请联系管理员。</p><h2 id="下载地址为："><a href="#下载地址为：" class="headerlink" title="下载地址为："></a>下载地址为：</h2><p>关注公众号：技术猪管，回复：tool 或者 mytools</p>]]></content>
+      
+      
       <categories>
-        <category>分享工具</category>
+          
+          <category> 分享工具 </category>
+          
       </categories>
-      <tags>
-        <tag>工具</tag>
-        <tag>diy工具</tag>
-        <tag>桌面管理工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Java代码混淆工具Allatori混淆jar包的简单使用方法</title>
-    <url>/news/cc0b9c1a.html</url>
-    <content><![CDATA[<h2 id="Allatori简介"><a href="#Allatori简介" class="headerlink" title="Allatori简介"></a>Allatori简介</h2><p>Allatori 是第二代 Java 混淆器，可为您的知识产权提供全方位的保护。<br>Allatori 不只是混淆，它还最小化应用程序大小，并提高速度，同时除了您和您​​的团队之外，任何人都无法读取您的代码。与每个现代 Java 混淆器一样，Allatori 具有完整的水印功能，可以为您的软件提供适当的许可！<br>如果您有必要保护您的软件，并且想要减小其大小和处理时间，那么 Allatori 混淆器非常适合您。</p>
-<h2 id="Allatori使用step01混淆jar包执行文件的详细步骤如下"><a href="#Allatori使用step01混淆jar包执行文件的详细步骤如下" class="headerlink" title="Allatori使用step01混淆jar包执行文件的详细步骤如下"></a>Allatori使用step01混淆jar包执行文件的详细步骤如下</h2><h2 id="Allatori下载"><a href="#Allatori下载" class="headerlink" title="Allatori下载"></a>Allatori下载</h2><p>进入官网：<span class="exturl" data-url="aHR0cHM6Ly9hbGxhdG9yaS5jb20v" title="https://allatori.com/">https://allatori.com/<i class="fa fa-external-link"></i></span> 点击下载按钮<br><img data-src="/images/image/20230212/allatori1.png" alt="地址图片"></p>
-<h2 id="Allatori配置"><a href="#Allatori配置" class="headerlink" title="Allatori配置"></a>Allatori配置</h2><ul>
-<li>1.首先新建一个allatori文件夹</li>
-<li>2.下载后，解压，找到allatori.jar文件并复制到allatori文件夹中</li>
-<li>3.在解压的Allatori-8.4-Demo\tutorial\step01\files目录下，把Clean.bat、config.xml、RunAllatori.bat都复制到allatori文件夹中</li>
-<li>4.把需要混淆代码的jar包复制到allatori文件夹中，比如我的是：main.jar</li>
-<li>5.修改clean.bat代码为<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">del log.xml</span><br><span class="line">del obf-main.jar</span><br></pre></td></tr></table></figure></li>
-<li>6.修改RunAllatori.bat代码为<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">java -Xms128m -Xmx512m -jar allatori.jar config.xml</span><br><span class="line">pause</span><br></pre></td></tr></table></figure></li>
-<li>7.修改config.xml代码为<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&lt;config&gt;</span><br><span class="line">    &lt;input&gt;</span><br><span class="line">        &lt;jar <span class="keyword">in</span>=<span class="string">&quot;main.jar&quot;</span> out=<span class="string">&quot;obf-main.jar&quot;</span>/&gt;</span><br><span class="line">    &lt;/input&gt;</span><br><span class="line"></span><br><span class="line">    &lt;keep-names&gt;</span><br><span class="line">        &lt;class access=<span class="string">&quot;protected+&quot;</span>&gt;</span><br><span class="line">            &lt;field access=<span class="string">&quot;protected+&quot;</span>/&gt;</span><br><span class="line">            &lt;method access=<span class="string">&quot;protected+&quot;</span>/&gt;</span><br><span class="line">        &lt;/class&gt;</span><br><span class="line">    &lt;/keep-names&gt;</span><br><span class="line">		</span><br><span class="line">	&lt;ignore-classes&gt;</span><br><span class="line">		&lt;!--不混淆 引入的第三方jar包--&gt;</span><br><span class="line">		&lt;class template=<span class="string">&quot;class *org*&quot;</span>/&gt;</span><br><span class="line">		&lt;class template=<span class="string">&quot;class *com*&quot;</span>/&gt;</span><br><span class="line">		&lt;class template=<span class="string">&quot;class *lib*&quot;</span>/&gt;</span><br><span class="line">	&lt;/ignore-classes&gt;</span><br><span class="line">	</span><br><span class="line">	</span><br><span class="line">	 &lt;classpath&gt;	</span><br><span class="line">        &lt;!-- 将lib目录下的所有jar加入classpath --&gt;</span><br><span class="line">        &lt;jar name=<span class="string">&quot;lib/*.jar&quot;</span>/&gt;</span><br><span class="line">    &lt;/classpath&gt;</span><br><span class="line"></span><br><span class="line">    &lt;property name=<span class="string">&quot;log-file&quot;</span> value=<span class="string">&quot;log.xml&quot;</span>/&gt;</span><br><span class="line">&lt;/config&gt;</span><br></pre></td></tr></table></figure></li>
-<li>8.在allatori文件夹下新建lib文件夹，把jdk文件夹下的jre和lib里面的所有jar包复制到该lib文件夹下。</li>
-</ul>
-<h2 id="Allatori混淆"><a href="#Allatori混淆" class="headerlink" title="Allatori混淆"></a>Allatori混淆</h2><ul>
-<li>1.双击运行RunAllatori.bat文件，开始混淆main.jar代码</li>
-<li>2.混淆完后，查看obf-main.jar 为混淆后的jar包文件</li>
-</ul>
-<h2 id="Allatori混淆其他方法"><a href="#Allatori混淆其他方法" class="headerlink" title="Allatori混淆其他方法"></a>Allatori混淆其他方法</h2><p>Allatori解压包下面有step01-step07，7中混淆方法，可以把里面的config.xml复制出来，自行修改。</p>
-<p>最后大家有任何问题，欢迎留言，一起讨论。</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+            <tag> diy工具 </tag>
+            
+            <tag> 桌面管理工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo更新ssh密钥为ed25519加密</title>
+      <link href="/news/54704.html"/>
+      <url>/news/54704.html</url>
+      
+        <content type="html"><![CDATA[<p>#hexo使用Rsa上传遇到错误后，更新ssh密钥为ed25519加密具体步骤</p><h2 id="介绍rsa加密为啥不可以了"><a href="#介绍rsa加密为啥不可以了" class="headerlink" title="介绍rsa加密为啥不可以了"></a>介绍rsa加密为啥不可以了</h2><p>GitHub 通过在 2022 年 3 月 15 日删除旧的、不安全的密钥类型来提高安全性。自该日期起，不再支持 RSA 密钥 (ssh-dss)。 无法在 GitHub.com上向个人帐户添加新的 RSA 密钥</p><span id="more"></span><h2 id="git配置"><a href="#git配置" class="headerlink" title="git配置"></a>git配置</h2><p>1.git全局配置</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">git config --global user.name <span class="string">&quot;moxun&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;xxx@xx.com&quot;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><p>2.删除旧的连接秘钥<br>cd c:&#x2F;Users&#x2F;你的电脑用户名&#x2F;.ssh下<br>把known_hosts、id_rsa、id_rsa.pub 三个文件都删除</p><p>3.生成秘钥<br>原来为：ssh-keygen -t rsa -C “Git邮箱地址” 这种不可以了。<br>现在为:ssh-keygen -t ed25519 -C “Git注册邮箱地址”<br>按三次回车enter键即可生成，这里一般不需要添加名称和密码</p><p>4.查看生成的公钥，并配置到github你项目设置里面的ssh里面</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cat</span> ~/.ssh/id_ed25519.pub</span><br></pre></td></tr></table></figure><p><img data-src="/images/image/20230108/hexogai7.png" alt="地址图片"></p><p>5.将 SSH 密钥添加到 ssh-agent<br>直接执行下面命令：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-add ~/.ssh/id_ed25519</span><br></pre></td></tr></table></figure><p>如果报错:Could not open a connection to your authentication agent<br>可以先执行：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-agent bash</span><br></pre></td></tr></table></figure><p>在执行上面命令</p><p>6.生成known_hosts文件<br>在git bash下输入</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -vT git@github.com</span><br></pre></td></tr></table></figure><p>命令执行成功后，如下图<br><img data-src="/images/image/20230108/hexogai1.png" alt="地址图片"></p><p>7.添加本地仓库和远程仓库关系<br>git remote add origin <span class="exturl" data-url="bWFpbHRvOiYjMTAzOyYjeDY5OyYjeDc0OyYjeDQwOyYjMTAzOyYjMTA1OyYjMTE2OyYjeDY4OyYjMTE3OyYjOTg7JiM0NjsmIzk5OyYjMTExOyYjMTA5Ow==" title="mailto:&#103;&#x69;&#x74;&#x40;&#103;&#105;&#116;&#x68;&#117;&#98;&#46;&#99;&#111;&#109;">&#103;&#x69;&#x74;&#x40;&#103;&#105;&#116;&#x68;&#117;&#98;&#46;&#99;&#111;&#109;<i class="fa fa-external-link"></i></span>:项目名称&#x2F;项目名称.github.io.git</p><h2 id="个人令牌获取"><a href="#个人令牌获取" class="headerlink" title="个人令牌获取"></a>个人令牌获取</h2><p>为什么使用个人令牌？<br>当 Git 提示您输入密码时，请输入您的个人访问令牌。或者，您可以使用Git Credential Manager等凭证帮助程序。Git 的基于密码的身份验证已被删除，取而代之的是更安全的身份验证方法。</p><p>怎么获取个人令牌？<br>当 Git 提示您输入密码时，请输入您的个人访问令牌。或者，您可以使用Git Credential Manager等凭证帮助程序。Git 的基于密码的身份验证已被删除，取而代之的是更安全的身份验证方法。</p><p>GitHub 目前支持两种类型的个人访问令牌：细粒度个人访问令牌和个人访问令牌（经典）。GitHub 建议您尽可能使用细粒度个人访问令牌而不是个人访问令牌（经典）。与个人访问令牌（经典）相比，细粒度个人访问令牌具有几个安全优势：<br>每个令牌只能访问单个用户或组织拥有的资源。<br>每个令牌只能访问特定的存储库。<br>每个令牌都被授予特定权限，这比授予个人访问令牌（经典）的范围提供更多控制。<br>每个令牌都必须有一个到期日期。<br>组织所有者可以要求批准任何可以访问组织资源的细粒度个人访问令牌。</p><p>此外，组织所有者可以限制个人访问令牌（经典）对其组织的访问。</p><p>作为安全预防措施，GitHub 会自动删除一年内未使用的个人访问令牌。为了提供额外的安全性，我们强烈建议为您的个人访问令牌添加到期时间。</p><ul><li><p>1.验证您的电子邮件地址（如果尚未验证）。</p></li><li><p>2.在任意页面的右上角，点击您的个人资料照片，然后点击设置。<br><img data-src="/images/image/20230108/hexogai2.png" alt="图片"></p></li><li><p>3.在左侧边栏中，单击Developer settings。</p></li><li><p>4.在左侧边栏中的Personal access tokens下，单击Tokens (classic)。</p></li><li><p>5.选择Generate new token，然后点击Generate new token (classic)。</p></li><li><p>6.为您的令牌指定一个描述性名称。<br><img data-src="/images/image/20230108/hexogai3.png" alt="图片"></p></li><li><p>7.要让您的令牌过期，请选择“过期”下拉菜单，然后单击默认值或使用日历选择器。<br><img data-src="/images/image/20230108/hexogai4.png" alt="图片"></p></li></ul><p>+8.选择您要授予此令牌的范围。要使用您的令牌从命令行访问存储库，请选择repo。没有分配范围的令牌只能访问公共信息。有关详细信息，请参阅“<span class="exturl" data-url="aHR0cHM6Ly9kb2NzLmdpdGh1Yi5jb20vZW4vZGV2ZWxvcGVycy9hcHBzL2J1aWxkaW5nLW9hdXRoLWFwcHMvc2NvcGVzLWZvci1vYXV0aC1hcHBzI2F2YWlsYWJsZS1zY29wZXM=" title="https://docs.github.com/en/developers/apps/building-oauth-apps/scopes-for-oauth-apps#available-scopes">可用范围<i class="fa fa-external-link"></i></span>”。<br><img data-src="/images/image/20230108/hexogai5.png" alt="图片"></p><ul><li><p>9.单击生成令牌。<br><img data-src="/images/image/20230108/hexogai6.png" alt="图片"></p></li><li><p>10.生成的令牌要复制保存好。以后就不可见了。</p></li></ul>]]></content>
+      
+      
       <categories>
-        <category>技术知识分享</category>
-        <category>java</category>
+          
+          <category> 技术知识分享 </category>
+          
       </categories>
-      <tags>
-        <tag>java</tag>
-        <tag>Allatori</tag>
-        <tag>代码混淆</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>微软官方免费一键加速工具没有广告便捷好用</title>
-    <url>/news/fc682164.html</url>
-    <content><![CDATA[<h2 id="微软电脑管家介绍"><a href="#微软电脑管家介绍" class="headerlink" title="微软电脑管家介绍"></a>微软电脑管家介绍</h2><p>微软电脑管家，微软官方自主研发的的全新桌面安全辅助类产品。 聚合微软 Windows 系统强大的底层研发能力，搭配微软独有反病毒引擎，全面构建电脑防护体系。微软电脑管家主打低占用，干净、不捆绑的产品特点，为用户提供电脑体检，反病毒，进程管理，启动项管理，电脑垃圾清理等功能</p>
-<h2 id="主要特色功能："><a href="#主要特色功能：" class="headerlink" title="主要特色功能："></a>主要特色功能：</h2><ul>
-<li>1.一键加速</li>
-<li>2.进程管理</li>
-<li>3.启动项管理</li>
-<li>4.弹窗拦截</li>
-<li>5.病毒扫描<br><img data-src="/images/image/20230212/wrgj1.png" alt="地址图片"><br><img data-src="/images/image/20230212/wrgj2.png" alt="地址图片"></li>
-</ul>
-<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址:"></a>下载地址:</h2><p><span class="exturl" data-url="aHR0cHM6Ly9wY21hbmFnZXIubWljcm9zb2Z0LmNvbS8/Y2hhbm5lbD0xMDAwMA==" title="https://pcmanager.microsoft.com/?channel=10000">电脑管家下载<i class="fa fa-external-link"></i></span></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 技术分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Alist如何使用教程</title>
+      <link href="/news/3475.html"/>
+      <url>/news/3475.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Alist能挂载众多流行网盘，并进行预览和不限速下载-扩充您的硬盘"><a href="#Alist能挂载众多流行网盘，并进行预览和不限速下载-扩充您的硬盘" class="headerlink" title="Alist能挂载众多流行网盘，并进行预览和不限速下载 扩充您的硬盘"></a>Alist能挂载众多流行网盘，并进行预览和不限速下载 扩充您的硬盘</h1><h2 id="alist是什么？"><a href="#alist是什么？" class="headerlink" title="alist是什么？"></a>alist是什么？</h2><p>alist程序是一个免费的开源项目。<br>一个支持多种存储，支持网页浏览和 WebDAV 的文件列表程序，由 gin 和 Solidjs 驱动。简单的来说就是能够帮助你管理各种网盘应用，类似于CloudDrive，AList除了支持网盘存储之外，还支持对象存储，本地存储，FTP等等</p><span id="more"></span><h2 id="alist挂载后能干什么？"><a href="#alist挂载后能干什么？" class="headerlink" title="alist挂载后能干什么？"></a>alist挂载后能干什么？</h2><ul><li>1.可以对文本，word，pdf等文件，进行修改、保存的操作，实时同步。</li><li>2.可以直接观看视频文件，有些网盘没有预览功能，这个工具可以帮您实现预览</li><li>3.可以直接下载您网盘的文件，再用idm实现不限速下载</li><li>4.操作简单，相当于把所有网盘空间扩充到了您的电脑，增加了硬盘空间</li></ul><h2 id="下载alist"><a href="#下载alist" class="headerlink" title="下载alist"></a>下载alist</h2><p>选择windows的版本下载:<br><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FsaXN0LW9yZy9hbGlzdC9yZWxlYXNlcw==" title="https://github.com/alist-org/alist/releases">下载地址<i class="fa fa-external-link"></i></span><br><img data-src="/images/image/20230108/alist1.png" alt="地址图片"></p><h2 id="安装alist"><a href="#安装alist" class="headerlink" title="安装alist"></a>安装alist</h2><p>下载后解压到一个文件夹后，打开cmd命令，输入alist server<br>第一次执行后，会有密码展示出来，要复制下来，后面会用到<br><img data-src="/images/image/20230108/alist2.png" alt="地址图片"></p><p>在浏览器输入127.0.0.1:5244，进入后，用户名输入admin,密码为上面复制的，粘贴进去，点击登录<br><img data-src="/images/image/20230108/alist3.png" alt="地址图片"></p><p>登录后点击下面的管理<br><img data-src="/images/image/20230108/alist4.png" alt="地址图片"></p><p>添加左侧的储存，添加添加，可以添加常见的流行网盘，包括国外的微软、谷歌、yandex 网盘，国内的百度、阿里、夸克、蓝奏网盘，共20多种<br><img data-src="/images/image/20230108/alist5.png" alt="地址图片"></p><p>这里选择一个百度网盘为例，挂载路径随便写<br><img data-src="/images/image/20230108/alist6.png" alt="地址图片"></p><p>主要是令牌的获取<br><img data-src="/images/image/20230108/alist7.png" alt="地址图片"></p><p>可以通过官方文档里面的连接获取<br><span class="exturl" data-url="aHR0cHM6Ly9hbGlzdC5ubi5jaS9ndWlkZS9kcml2ZXJzL2JhaWR1Lmh0bWw=" title="https://alist.nn.ci/guide/drivers/baidu.html">官方文档地址<i class="fa fa-external-link"></i></span><br><img data-src="/images/image/20230108/alist8.png" alt="地址图片"></p><p>获取后添加到上面的令牌出，最后添加添加，添加成功后状态为work<br><img data-src="/images/image/20230108/alist9.png" alt="地址图片"></p><p>在重新进入到首页<span class="exturl" data-url="aHR0cDovLzEyNy4wLjAuMTo1MjQ0LyVFNSVCMCVCMSVFNSU4RiVBRiVFNCVCQiVBNSVFNyU5QyU4QiVFNSU4OCVCMCVFNiVCNyVCQiVFNSU4QSVBMCVFNyU5QSU4NCVFNyU5QiVBRSVFNSVCRCU5NSVFMyU4MCU4MiVFOCVCRiU5QiVFNSU4NSVBNSVFNSU5MCU4RSVFNSVCMCVCMSVFNSU4RiVBRiVFNCVCQiVBNSVFOCVBRSVCRiVFOSU5NyVBRSVFNyVCRCU5MSVFNyU5QiU5OCVFOCVCNSU4NCVFNiVCQSU5MCVFNCVCQSU4Ng==" title="http://127.0.0.1:5244/%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E6%B7%BB%E5%8A%A0%E7%9A%84%E7%9B%AE%E5%BD%95%E3%80%82%E8%BF%9B%E5%85%A5%E5%90%8E%E5%B0%B1%E5%8F%AF%E4%BB%A5%E8%AE%BF%E9%97%AE%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90%E4%BA%86">http://127.0.0.1:5244/就可以看到添加的目录。进入后就可以访问网盘资源了<i class="fa fa-external-link"></i></span><br><img data-src="/images/image/20230108/alist10.png" alt="地址图片"><br><img data-src="/images/image/20230108/alist11.png" alt="地址图片"></p><p>其他网盘的添加可以参考官方文档。<br>快来自己试试吧。</p><p>注意：<br>用完后，要取消百度网盘的授权可以到百度网盘的个人中心的授权管理里面取消alist授权即可。<br><img data-src="/images/image/20230108/alist12.png" alt="地址图片"><br><img data-src="/images/image/20230108/alist13.png" alt="地址图片"></p>]]></content>
+      
+      
       <categories>
-        <category>分享工具</category>
+          
+          <category> 分享工具 </category>
+          
       </categories>
-      <tags>
-        <tag>微软</tag>
-        <tag>电脑管家</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人综合开源工具免费试用</title>
-    <url>/news/3d282e7.html</url>
-    <content><![CDATA[<h2 id="软件介绍"><a href="#软件介绍" class="headerlink" title="软件介绍"></a>软件介绍</h2><p>本人c#开发的电脑桌面综合应用工具。目前为v1.0版本，免费开源，功能众多。写隐术，批量发邮件，各种加密解密工具等等。</p>
-<h2 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h2><p>暂时不更新</p>
-<h2 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h2><p>在内测中，敬请期待</p>
-<h2 id="最新版本"><a href="#最新版本" class="headerlink" title="最新版本"></a>最新版本</h2><table>
-    <tr>
-        <td>version</td> 
-        <td>1.0.0.1</td> 
-   </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> alist </tag>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/news/16107.html"/>
+      <url>/news/16107.html</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="edb72a631625b9219d557ebc14706333275be9e4ec4033ea68fc235d4bf82777">472f0d2124ee617a2f29ff331422d5d3b7a81f94806012cb3f3490f773a197b4d19e9eecd13361f6414083e3277208f2e81b72cd36c16e8784720486655872dc980b4483719afff7cb71e52f713d1a60d50f2349b9ef5a54424a00ca5976ea23bb7982da3f1275f8fedb4d53d1cb47e77a528fa919c58adbd4f7f52d081f2c92e62a36347259a161c67d76b4956bb5169f4abadba54c9defe824b38789e54d3e670c3990a41aef2ae1f4cdcafbcfc154a1af8af5266e1906f08043103c5263d91305a0b1741470e3adf5cdda7582a1299d19cb7036f6b3a47a403e8fad7afd3f69655e53510fdd95a96ecf10fc8ea90de86ef789b23413ed49b83ce5df3aa7e9db2da81b5980bf74ac1a1887f3df167324893b75ba3b6570a69985bcd9e55ef871e9b283fb39055df0f3bc927ae2391d0f758239812257e797d7de244113e49e3541041cba87c9cbfaaca3836acc826e2429691e9529a53c455a3c5fd35975daaad56c3fd749194773662705a6ee8f798cf23817b134c237d377d914ebddaee69e2f11b0bec65084c7a373399939cd5ec2262c0bf9d51d1bb26f0359549f61c9f0eb36fde85803da145bb819dc76092ec7fb957bd596ff4a9c16a84f1ac592cd88c178fc3af371704041670a7573ce483ed2058cc08ddefaf50206dff5676764a06fdb2172b48d5a8bb2ce9758fa33e4d1c28b2b3ebabf28fc94314bce8b0fd692ccfbb5a9fb69adcc4ae8208349355100dbe55da29d3d0afb950a8667c6a5fb180b1995f5512de5e8910ecb62b18e83725c5d300451e2b542e717020d63762c01d6ed0969aff1efe4fdd208b55cac956504d96d908716ce075f1741f8a9d4735f437651962360df77b54f4822b2e094b8ab758e41f48582e6a4a1abd9654aa51359ccf7b4eeab895f229e13ecc8efcf9a1518df9a2a76c6426aae29159212956a597b9f441f210590a15aea5dc14333add29770e6e07880ea954817f996957278de0e32ab7362f67289fae6979396e8fd572b1365db2730e2d924a8a3353ce10db54396983b41dba02927be79a2081cafcc53b1b72efbd5532dc73f5a34f8306a34d2cd0d609e1b737b4a51615d70b8e7bbec0e09b6a4f5a0f250443df7af4e0a56c562939ecf6c29776b866b75b9ac757d644805ce7f2d94f26b9702112edc17b21262053fa68f2b78a9b34c0845930cf04efaa121cfe08bc56bee4dff05eb1473e193a96f336b7cccd0e547feb09e4978dbf98a2d2021caf94813e557f36f2d67114894284d67e806943a383501e65a2abce8e6f2f952bd2e06174d6bc5af41a8b58802e3970e9c75323bc13e5276c56e3ae12bd77b839413e007300ce95a5228ae47e998543688fd96d3420f2d598a60d66d50fb9979d45939700aed91e5b2f4ba24b6e9297b5f15296881523ab9159685056c3e0d83ca766915d69b162edaaa89668530f28a49973c7ba36beaacb7819b956a18c43264de05f54010d88b102b22aa4ecaf4868c8230c823ff148fdfb784d63e9fe6121f6ccdf47ae15e61ff2fe1bc7d1706a6414d545419ff26cbd806a2062f8f0a8519aa37ec3f976d7550a5288de201ccb3764cfac8410fb3ee2176dfb173c2b7fb1ec690064896bd779066bc71c854c14dd4ecf06c1e9523947378bba6cb6018aebeef6de37a7c5817ae8bf98beae6f68a94fd43fa25d16e2cada4269fe5568fc040f68c666251d82fc1b1e1ba5acc764a3b1a62c3623dd3220e7a736b9207d35649b33bb0abb49bf213e2105d97fee1e1dce06eee132aeae9bb30179d81ba2f2cc190bbdcedae199c9f6b402b6e7802762a2397825cedc80aa3e6188a5e55f33d1e4718d4d98fad037c62dc93802dbdc07ab8b0e9942a86535308d2c4192629b9be7be5ef375d525e52d1bfd10c540d564c471ecf60ad840183ccebc1886395609994cd089ebb494231bbb0bacfdca2e19253b6319c5ac36d37a14e4726d0f5500f30d28326ec638208bb862de85a99096ecb653d4a87b70529165007600f8cf7c936ba193a3668a3483ebff766e6b250bca72e6142ed577928e1bd8f41bb45360bdcf3a9aa8210fb25e463f91f96054d6149f4f9e7e3713825d38d613a55d62afdc236f5e4ad32fc208a08b9872037ca27670a2c93bc328d8489160b860c187984cf93053e2cba427f914893bfd4cd31e01dd40bd17fabda0cf65eabac1af7810c93b21369f0ce5ef107e13875121c33cdf2a12f32112e0bd33abaece63b6147208e62400accc08ea2663a508ff99606b388b04bfd1b978bf0c98100eb0f66901198f6d082b4c5e45603df62f704cb6091662559e9301d3dd8427bb61484c833ec3df5c8b53dc387fd942706a27ecc9da519990c3a15d423e65ca37f05a1dd744f10fabd15713c98fc5e6de72c23d539ac1c1eed9834236dfc075789c093e3a3e734be97e1a34cd64d1a42077421318034a8f447c04fd7c3c9546ebf5a72f787357f56086a5705c1750c946d2312d3f7ce370f1872d188c4cf3c3268c206fd2bfa65ef8779bdd088851b58ea57bad63a88cd4dcf14617d4acebb932b4a574f3846bf432778c02ecd0b126bbc2536171599e2ccb9af7c647429987a212e0bce3fa3f63868ebc0eb516d118ab6dc06f9e16cb6dd8977d81ef25ad0550fefb713c9758d9338f9cfd618f54f7fa09d107f6d0861d450431d395f459be5ecaaf999b0c750881aa947e11b5b0d316920d225ed24c8943df165a81f17f487999e34f8c439e12f96f9dbc8122427a9ab71080f9fbcad56afb7c182ec5932ae7f4073847cd2ad5fdd9c20651d99bf84d2e4ad94e1673c052ee2f157128b4687da158594d64b3774d6fd9d9e4c39ab602d1205f81b563300a1db39c7fac5aacd319994dad68673978a47a2a6740fd91423c65214379c6e919455364c79d46c455a38083927645169ef72ca740486a82063de1968405e049eb730cb853a5fce0541b5ccae3ace5a54338897e480c55726726fa2131cfeb8fc6f1aac218f0dcc030e04ee5c721cdec37f9c945f9f64e681f1350874d7f56b1bd120fa23c10f0247b6a4089eeb1ac4826cc52c7c60e581f3196ec0aabeb70c02f1cc1787b8eaad797f6919fd1e7b8a0772cfbe8a23866888a0a252a8d2eb80d10121cf57d24fef70ee72fa8ad3413d4f7d69d44556d07810ec3635665240ce83bc0adea4ae92ace2bbc2c91b6017ba980209090864b77a7e36246521ae465d464bf29f4d86b8efb55d90416a27a94c8490d2102b190453aaa1b75385cedb9d59bbbe2e2dd39675c93134caa6e6f9271cbbec2e0bec21612a097c27864e98ee421ef0b7e7aae11e8e6257f00cf0f3d566fcb74006c69835f3b6993babba2b4b1635eeda97a458a868f2c3eb5961d3bbfd6aed5bd0eb52d34384cda3afcbba32bc81e6ac358ae105269692b480554e540736763044791c94ebc8b99c4324f400cf6845e4bf53bbff194d941d5f0d45b79dc21b8c7bbba38adc4a4ee7315f85006fa125dc554d0f1e751601b9dcb2752f227e8cbd1097939e42a849c64423f0131efbee1427f568b6874f51dc351efea1415c45e973b4b0a5e49d2134f799ed74722447c6160a1d16d49f1981d5aa3069f00559f352cd1ca0df408c1dfcabaaab5570c99bcfe5f6243339237ef3c13e4254452bc87a1a2338ff3fe54f4e7db495ac6288be211ae11da6647f43c079bb74d2c8a6bcc1cd3e49c0b8d3b8fb5871699934ab9e2f14c53feb6106036f8bcb57ca65d704cb996f8cd8278942c649568a71f56b4a94aa2545902bcaea214a36103a4cecbd9b427260724b59a30c123523cd4d36edeffc692b3feb55e783f66a3fbccc040cce0e6b4d20b2c2c0429cfbe7f2dafc61be716c891d1af0ab868c9088ec2f5d5e42f2ac5b66be5d4f5fb21bfc586b1878e83af236fdf6f546ee827144ec3067a6cd3d00bb0b9d34e6a38ff3744d74633c6b29b5b31860140e49a8f093e277b9ce9dca61f368ecb549feec5eac31537e6175c0cf62408335b497a2ce96fee0c4f0445645b6ea03b5ea40d216e59a1b07e4983704bca862cf7ac738f9e7db01cabd739a933c9280617ad3820e66308318e1ac53c8eca449197d8aab99339f138419bd1debbbda1d49bc388c540824aaa548137787abaee4f708f3dc4420c714c42347705742c63eaa324436c9e5478802ef506f65daff6057c082967acf7cb88e0683d22b1e84deb0c06c63b6070e2c61c3d780bb6fdbe6a6f5d61ef5e132dd8deb61f7c4425f2620f138b5f2bc8efa494b2b6e5246ba9d79834c6e885d7e869bd170badaa2ab00140a8b313b691617f16ae9cb9fc626bad7379e4972dee754c040d21cd3bf492cd27d9af58fbd7e704cf51602ac228355185c8fc66ef73d89b19baaac6a3bded5ee9f88123b23a3258fa1651f898dcb7162cfabc888979eecc304b4bf</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
       <categories>
-        <category>分享工具</category>
+          
+          <category> 测试类别 </category>
+          
       </categories>
-      <tags>
-        <tag>工具</tag>
-        <tag>综合工具</tag>
-        <tag>c#开发工具</tag>
-        <tag>桌面应用</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> Test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
