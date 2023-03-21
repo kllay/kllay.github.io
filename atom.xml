@@ -6,7 +6,7 @@
   <link href="https://kllay.github.io/atom.xml" rel="self"/>
   
   <link href="https://kllay.github.io/"/>
-  <updated>2023-03-21T08:02:10.324Z</updated>
+  <updated>2023-03-21T10:48:27.876Z</updated>
   <id>https://kllay.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>swapface 实时换脸</title>
+    <link href="https://kllay.github.io/news/32d2ef35.html"/>
+    <id>https://kllay.github.io/news/32d2ef35.html</id>
+    <published>2023-03-21T09:26:18.000Z</published>
+    <updated>2023-03-21T10:48:27.876Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="swapface"><a href="#swapface" class="headerlink" title="swapface"></a>swapface</h1><h2 id="swapface介绍"><a href="#swapface介绍" class="headerlink" title="swapface介绍"></a>swapface介绍</h2><p>swapface是一款实时换脸的 AI 工具，帮助你一秒钟成为任何人！使用 Swapface 可以在一秒钟内创建换脸直播，还可以从图库数千个高颜值面孔中进行选择，快速成为帅哥美女。<br><img data-src="/images/image/20230321/7.png" alt="地址图片"></p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><p>1.直播换脸<br>2.视频换脸<br>3.图片换脸</p><h2 id="swapface-使用"><a href="#swapface-使用" class="headerlink" title="swapface 使用"></a>swapface 使用</h2><h3 id="下载swapface"><a href="#下载swapface" class="headerlink" title="下载swapface"></a>下载swapface</h3><p><span class="exturl" data-url="aHR0cHM6Ly9zd2FwZmFjZS5vcmcvIy9ob21l" title="https://swapface.org/#/home">官网地址<i class="fa fa-external-link"></i></span><br><span class="exturl" data-url="aHR0cHM6Ly9zdGF0aWNzLnN3YXBmYWNlLm9yZy9jbGllbnQvZGlzdC9Td2FwZmFjZSUyMFNldHVwJTIwMC4yLjUuZXhl" title="https://statics.swapface.org/client/dist/Swapface%20Setup%200.2.5.exe">0.2.5下载地址<i class="fa fa-external-link"></i></span></p><h3 id="安装swapface"><a href="#安装swapface" class="headerlink" title="安装swapface"></a>安装swapface</h3><p>Swapface Setup 0.2.5.exe 下载后，直接下一步安装即可。</p><h3 id="打开swapface"><a href="#打开swapface" class="headerlink" title="打开swapface"></a>打开swapface</h3><p>首先需要注册一个账号，然后登陆，就可以使用了。<br><img data-src="/images/image/20230321/8.png" alt="地址图片"><br><img data-src="/images/image/20230321/9.png" alt="地址图片"></p><h1 id="其他项目"><a href="#其他项目" class="headerlink" title="其他项目"></a>其他项目</h1><h2 id="faceswap"><a href="#faceswap" class="headerlink" title="faceswap"></a>faceswap</h2><p><span class="exturl" data-url="aHR0cHM6Ly9mYWNlc3dhcC5kZXYv" title="https://faceswap.dev/">地址<i class="fa fa-external-link"></i></span></p><h2 id="ai在线换脸-deepswap"><a href="#ai在线换脸-deepswap" class="headerlink" title="ai在线换脸 deepswap"></a>ai在线换脸 deepswap</h2><p><span class="exturl" data-url="aHR0cHM6Ly93d3cuZGVlcHN3YXAuYWkv" title="https://www.deepswap.ai/">地址<i class="fa fa-external-link"></i></span></p>]]></content>
+    
+    
+    <summary type="html">swapface是一款实时换脸的 AI 工具，帮助你一秒钟成为任何人！使用 Swapface 可以在一秒钟内创建换脸直播，还可以从图库数千个高颜值面孔中进行选择，快速成为帅哥美女。</summary>
+    
+    
+    
+    <category term="Ai" scheme="https://kllay.github.io/categories/Ai/"/>
+    
+    <category term="智能" scheme="https://kllay.github.io/categories/Ai/%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="midjourney" scheme="https://kllay.github.io/categories/Ai/%E6%99%BA%E8%83%BD/midjourney/"/>
+    
+    
+    <category term="Ai" scheme="https://kllay.github.io/tags/Ai/"/>
+    
+    <category term="ai生成图片" scheme="https://kllay.github.io/tags/ai%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87/"/>
+    
+    <category term="midjourney" scheme="https://kllay.github.io/tags/midjourney/"/>
+    
+  </entry>
+  
+  <entry>
     <title>midjourney v5使用详细教程</title>
     <link href="https://kllay.github.io/news/e4bfa99e.html"/>
     <id>https://kllay.github.io/news/e4bfa99e.html</id>
     <published>2023-03-21T06:44:20.000Z</published>
-    <updated>2023-03-21T08:02:10.324Z</updated>
+    <updated>2023-03-21T08:02:34.142Z</updated>
     
     <content type="html"><![CDATA[<p>继OpenAI发表GPT-4后，AI生成图片工具 Midjourney 亦推出了新版本「Midjourney V5」，加强图像细节处理和多人物处理能力，提高Prompt理解能力和手指问题的改善，以及添加图像转文本功能和Starting Grid Size提升。新版本的图像处理效果更加真实和细腻，同时优化社区和图像搜索等功能</p><h1 id="准备环境"><a href="#准备环境" class="headerlink" title="准备环境"></a>准备环境</h1><p>1.<span class="exturl" data-url="aHR0cHM6Ly9kaXNjb3JkLmNvbS8=" title="https://discord.com/">注册discord<i class="fa fa-external-link"></i></span><br>2.<span class="exturl" data-url="aHR0cHM6Ly9taWRqb3VybmV5LmNvbS8=" title="https://midjourney.com/">midjourney<i class="fa fa-external-link"></i></span> v5是付费使用，需要购买会员<br><img data-src="/images/image/20230321/1.png" alt="地址图片"><br>3.<span class="exturl" data-url="aHR0cHM6Ly9kb2NzLm1pZGpvdXJuZXkuY29tL2RvY3MvcXVpY2stc3RhcnQ=" title="https://docs.midjourney.com/docs/quick-start">midjourney帮助文档<i class="fa fa-external-link"></i></span></p><h2 id="注册discord"><a href="#注册discord" class="headerlink" title="注册discord"></a>注册discord</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><p><span class="exturl" data-url="aHR0cHM6Ly9kaXNjb3JkLmNvbS9sb2dpbg==" title="https://discord.com/login">地址<i class="fa fa-external-link"></i></span></p><h2 id="注册完后，进行登录discord"><a href="#注册完后，进行登录discord" class="headerlink" title="注册完后，进行登录discord"></a>注册完后，进行登录discord</h2><h1 id="登录midjourney"><a href="#登录midjourney" class="headerlink" title="登录midjourney"></a>登录midjourney</h1><h2 id="加入测试地址"><a href="#加入测试地址" class="headerlink" title="加入测试地址"></a>加入测试地址</h2><p>加入midjourney开放频道。<br>点击Join the Beta<br><img data-src="/images/image/20230321/3.png" alt="地址图片"><br>点击Continue to Discord<br><img data-src="/images/image/20230321/2.png" alt="地址图片"></p><h3 id="地址-1"><a href="#地址-1" class="headerlink" title="地址"></a>地址</h3><p><span class="exturl" data-url="aHR0cHM6Ly9kaXNjb3JkLmNvbS9pbnZpdGUvbWlkam91cm5leQ==" title="https://discord.com/invite/midjourney">地址<i class="fa fa-external-link"></i></span></p><h1 id="使用midjourney"><a href="#使用midjourney" class="headerlink" title="使用midjourney"></a>使用midjourney</h1><p>midjourney默认的是v4版本</p><h2 id="v4使用"><a href="#v4使用" class="headerlink" title="v4使用"></a>v4使用</h2><h3 id="进入一个新手频道-newbies"><a href="#进入一个新手频道-newbies" class="headerlink" title="进入一个新手频道 newbies-#"></a>进入一个新手频道 newbies-#</h3><p><img data-src="/images/image/20230321/5.png" alt="地址图片"></p><h3 id="输入指令"><a href="#输入指令" class="headerlink" title="输入指令"></a>输入指令</h3><p>使用命令与 Discord 上的中途机器人互动。命令用于创建映像、更改默认设置、监视用户信息以及执行其他有用的任务。该命令从简短文本说明（称为提示符）生成唯一图像。<br>输入指令 &#x2F;imagine<br>输入指令 &#x2F;imagine 后 Prompt 关键词<br><img data-src="/images/image/20230321/4.png" alt="地址图片"><br>关键词:</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">happy girl,yellow hair,pink mouse,Chest Shot,3d,cute,Little adorable chibi graphics,disney pixar Style,cute,mobile game style,cinema lighting </span><br></pre></td></tr></table></figure><h3 id="检查-Midjourney-生成的-AI-美图"><a href="#检查-Midjourney-生成的-AI-美图" class="headerlink" title="检查 Midjourney 生成的 AI 美图"></a>检查 Midjourney 生成的 AI 美图</h3><h2 id="v5使用"><a href="#v5使用" class="headerlink" title="v5使用"></a>v5使用</h2><h3 id="Midjourney-v5-需要订阅才能使用"><a href="#Midjourney-v5-需要订阅才能使用" class="headerlink" title="Midjourney v5 需要订阅才能使用"></a>Midjourney v5 需要订阅才能使用</h3><p>如果你要使用 Midjourney 所推出的 v5 版本，首先你必須先成为 Midjourney 的订阅使用者。<br>在 Midjourney 的指令输入框中輸入 &#x2F;subscribe 然后按下 Enter，页面中就會出现订阅功能的连接給你。<br><img data-src="/images/image/20230321/6.png" alt="地址图片"></p><h3 id="使用v5两种方式"><a href="#使用v5两种方式" class="headerlink" title="使用v5两种方式"></a>使用v5两种方式</h3><p>选择Midjourney频道，由于现在默认的是V4版本，所以需要手动选择V5</p><h4 id="1-设置选项"><a href="#1-设置选项" class="headerlink" title="1.设置选项"></a>1.设置选项</h4><p>Discord 中输入 &#x2F;settings，选择 MJ 选项并按下回车键以应用更改。在出现的菜单中选择 MJ 5，然后单击应用即可。</p><h4 id="2-生成图片时，末尾加-v-5参数"><a href="#2-生成图片时，末尾加-v-5参数" class="headerlink" title="2.生成图片时，末尾加-v 5参数"></a>2.生成图片时，末尾加-v 5参数</h4><p>生成镜像时在命令提示符处添加—v 5</p><h3 id="v5关键词"><a href="#v5关键词" class="headerlink" title="v5关键词"></a>v5关键词</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Cinematic, hyper-detailed, and insanely detailed -imagine a scene <span class="built_in">where</span> former US President DonaldTrump is standing next to a shiba, his smile beaming withdelight The scene is beautifully color graded andrendered with Unreal Engine, complete with depth offield, super-resolution, and megapixel quality. Thecinematic lightning illuminates every inch of the scene.with anti-aliasing, FKAATXAARTXSSAO post-processing, post-production, tone mapping, CGl, VFXand SFX adding to the immersive experience. The imageis insanely detailed and intricate, with a hyper maximalist and hyper-realistic feel. The volumetric andphotorealistic effects make the scene ultra photoreal andultra-detailed, with intricate details <span class="keyword">in</span> 8K resolution andfull color. The volumetric lightning and HDR bring a senseof realism, <span class="keyword">while</span> the use of Unreal Engine and 16Kresolution ensure sharp focus throughout Andjust whenyou think it couldn<span class="string">&#x27;t get any better, there&#x27;</span>s even moredetail packed <span class="keyword">in</span>. This is a scene that truly captures theimagination and takes it to new heights.--v 5</span><br></pre></td></tr></table></figure>]]></content>
     
