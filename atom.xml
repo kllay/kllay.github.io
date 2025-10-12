@@ -6,7 +6,7 @@
   <link href="https://kllay.github.io/atom.xml" rel="self"/>
   
   <link href="https://kllay.github.io/"/>
-  <updated>2023-04-04T12:36:53.114Z</updated>
+  <updated>2025-10-12T15:01:53.613Z</updated>
   <id>https://kllay.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何搭建一个导航网站</title>
+    <link href="https://kllay.github.io/news/e1d1d475.html"/>
+    <id>https://kllay.github.io/news/e1d1d475.html</id>
+    <published>2025-10-11T15:14:57.000Z</published>
+    <updated>2025-10-12T15:01:53.613Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="搭建导航网站"><a href="#搭建导航网站" class="headerlink" title="搭建导航网站"></a>搭建导航网站</h1><h2 id="开发导航网站源码"><a href="#开发导航网站源码" class="headerlink" title="开发导航网站源码"></a>开发导航网站源码</h2><ul><li><p>使用的是：bootstarp-4.6.2+jquery-3.6.0+Awesome图标</p></li><li><p>图标参考：</p><ul><li><span class="exturl" data-url="aHR0cHM6Ly9mb250YXdlc29tZS5jb20uY24vdjU=" title="https://fontawesome.com.cn/v5">https://fontawesome.com.cn/v5<i class="fa fa-external-link"></i></span> </li><li><span class="exturl" data-url="aHR0cHM6Ly93d3cucnVub29iLmNvbS9mb250LWF3ZXNvbWUvZm9udGF3ZXNvbWUtcmVmZXJlbmNlLmh0bWw=" title="https://www.runoob.com/font-awesome/fontawesome-reference.html">https://www.runoob.com/font-awesome/fontawesome-reference.html<i class="fa fa-external-link"></i></span></li></ul></li><li><p>导航数据维护：</p><ul><li>内容在：sites.json</li><li>图片在：assets&#x2F;img</li></ul></li></ul><h2 id="源码地址"><a href="#源码地址" class="headerlink" title="源码地址"></a>源码地址</h2><ul><li>地址：  <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/kllay/awesome-navigation.git</span><br></pre></td></tr></table></figure></li></ul><h2 id="安装到-Vercel"><a href="#安装到-Vercel" class="headerlink" title="安装到 Vercel"></a>安装到 Vercel</h2><ul><li>1.克隆项目到自己的项目下 </li><li>2.登录 vercel.com </li><li>3.点击 Add New Project </li><li>4.选择你刚克隆的仓库 awesome-navigation </li><li>5.设置部署： <ul><li>Framework Preset: Other </li><li>Build Command: 留空 </li><li>Output Directory: 留空 </li><li>点击 Deploy</li></ul></li><li>6.默认是一个长地址，可以用自己的域名进行解析<ul><li>默认地址类似：<span class="exturl" data-url="aHR0cHM6Ly9hd2Vzb21lLW5hdmlnYXRpb24tcm91Z2UudmVyY2VsLmFwcC8=" title="https://awesome-navigation-rouge.vercel.app/">https://awesome-navigation-rouge.vercel.app/<i class="fa fa-external-link"></i></span></li></ul></li></ul><h2 id="导航演示地址："><a href="#导航演示地址：" class="headerlink" title="导航演示地址："></a>导航演示地址：</h2><ul><li><span class="exturl" data-url="aHR0cHM6Ly9uYXYuYWlkaGxiLmNvbS8=" title="https://nav.aidhlb.com/">https://nav.aidhlb.com/<i class="fa fa-external-link"></i></span></li></ul><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ul><li>如果有任何疑问欢迎留言，一起探讨。</li></ul>]]></content>
+    
+    
+    <summary type="html">无论做哪个行业都需要相关的网站寻求资源或帮助或灵感，做一个独属于自己的免费网站才能随时用。</summary>
+    
+    
+    
+    <category term="-导航网站源码搭建" scheme="https://kllay.github.io/categories/%E5%AF%BC%E8%88%AA%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="-导航网站搭建 -导航网站源码 -导航网站 -导航源码" scheme="https://kllay.github.io/tags/%E5%AF%BC%E8%88%AA%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA-%E5%AF%BC%E8%88%AA%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81-%E5%AF%BC%E8%88%AA%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA%E6%BA%90%E7%A0%81/"/>
+    
+  </entry>
   
   <entry>
     <title>ai换脸相机-xpression</title>
@@ -531,29 +552,6 @@
     <category term="c#开发工具" scheme="https://kllay.github.io/tags/c-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
     <category term="桌面应用" scheme="https://kllay.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>微软官方免费一键加速工具没有广告便捷好用</title>
-    <link href="https://kllay.github.io/news/fc682164.html"/>
-    <id>https://kllay.github.io/news/fc682164.html</id>
-    <published>2023-01-12T09:33:26.000Z</published>
-    <updated>2023-01-12T09:40:27.493Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="微软电脑管家介绍"><a href="#微软电脑管家介绍" class="headerlink" title="微软电脑管家介绍"></a>微软电脑管家介绍</h2><p>微软电脑管家，微软官方自主研发的的全新桌面安全辅助类产品。 聚合微软 Windows 系统强大的底层研发能力，搭配微软独有反病毒引擎，全面构建电脑防护体系。微软电脑管家主打低占用，干净、不捆绑的产品特点，为用户提供电脑体检，反病毒，进程管理，启动项管理，电脑垃圾清理等功能</p><h2 id="主要特色功能："><a href="#主要特色功能：" class="headerlink" title="主要特色功能："></a>主要特色功能：</h2><ul><li>1.一键加速</li><li>2.进程管理</li><li>3.启动项管理</li><li>4.弹窗拦截</li><li>5.病毒扫描<br><img data-src="/images/image/20230212/wrgj1.png" alt="地址图片"><br><img data-src="/images/image/20230212/wrgj2.png" alt="地址图片"></li></ul><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址:"></a>下载地址:</h2><p><span class="exturl" data-url="aHR0cHM6Ly9wY21hbmFnZXIubWljcm9zb2Z0LmNvbS8/Y2hhbm5lbD0xMDAwMA==" title="https://pcmanager.microsoft.com/?channel=10000">电脑管家下载<i class="fa fa-external-link"></i></span></p>]]></content>
-    
-    
-    <summary type="html">微软电脑管家，微软官方自主研发的的全新桌面安全辅助类产品。 聚合微软 Windows 系统强大的底层研发能力，搭配微软独有反病毒引擎，全面构建电脑防护体系。微软电脑管家主打低占用，干净、不捆绑的产品特点，为用户提供电脑体检，反病毒，进程管理，启动项管理，电脑垃圾清理等功能</summary>
-    
-    
-    
-    <category term="分享工具" scheme="https://kllay.github.io/categories/%E5%88%86%E4%BA%AB%E5%B7%A5%E5%85%B7/"/>
-    
-    
-    <category term="微软" scheme="https://kllay.github.io/tags/%E5%BE%AE%E8%BD%AF/"/>
-    
-    <category term="电脑管家" scheme="https://kllay.github.io/tags/%E7%94%B5%E8%84%91%E7%AE%A1%E5%AE%B6/"/>
     
   </entry>
   

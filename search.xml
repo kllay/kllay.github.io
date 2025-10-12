@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>如何搭建一个导航网站</title>
+      <link href="/news/e1d1d475.html"/>
+      <url>/news/e1d1d475.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="搭建导航网站"><a href="#搭建导航网站" class="headerlink" title="搭建导航网站"></a>搭建导航网站</h1><h2 id="开发导航网站源码"><a href="#开发导航网站源码" class="headerlink" title="开发导航网站源码"></a>开发导航网站源码</h2><ul><li><p>使用的是：bootstarp-4.6.2+jquery-3.6.0+Awesome图标</p></li><li><p>图标参考：</p><ul><li><span class="exturl" data-url="aHR0cHM6Ly9mb250YXdlc29tZS5jb20uY24vdjU=" title="https://fontawesome.com.cn/v5">https://fontawesome.com.cn/v5<i class="fa fa-external-link"></i></span> </li><li><span class="exturl" data-url="aHR0cHM6Ly93d3cucnVub29iLmNvbS9mb250LWF3ZXNvbWUvZm9udGF3ZXNvbWUtcmVmZXJlbmNlLmh0bWw=" title="https://www.runoob.com/font-awesome/fontawesome-reference.html">https://www.runoob.com/font-awesome/fontawesome-reference.html<i class="fa fa-external-link"></i></span></li></ul></li><li><p>导航数据维护：</p><ul><li>内容在：sites.json</li><li>图片在：assets&#x2F;img</li></ul></li></ul><h2 id="源码地址"><a href="#源码地址" class="headerlink" title="源码地址"></a>源码地址</h2><ul><li>地址：  <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/kllay/awesome-navigation.git</span><br></pre></td></tr></table></figure></li></ul><h2 id="安装到-Vercel"><a href="#安装到-Vercel" class="headerlink" title="安装到 Vercel"></a>安装到 Vercel</h2><ul><li>1.克隆项目到自己的项目下 </li><li>2.登录 vercel.com </li><li>3.点击 Add New Project </li><li>4.选择你刚克隆的仓库 awesome-navigation </li><li>5.设置部署： <ul><li>Framework Preset: Other </li><li>Build Command: 留空 </li><li>Output Directory: 留空 </li><li>点击 Deploy</li></ul></li><li>6.默认是一个长地址，可以用自己的域名进行解析<ul><li>默认地址类似：<span class="exturl" data-url="aHR0cHM6Ly9hd2Vzb21lLW5hdmlnYXRpb24tcm91Z2UudmVyY2VsLmFwcC8=" title="https://awesome-navigation-rouge.vercel.app/">https://awesome-navigation-rouge.vercel.app/<i class="fa fa-external-link"></i></span></li></ul></li></ul><h2 id="导航演示地址："><a href="#导航演示地址：" class="headerlink" title="导航演示地址："></a>导航演示地址：</h2><ul><li><span class="exturl" data-url="aHR0cHM6Ly9uYXYuYWlkaGxiLmNvbS8=" title="https://nav.aidhlb.com/">https://nav.aidhlb.com/<i class="fa fa-external-link"></i></span></li></ul><h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><ul><li>如果有任何疑问欢迎留言，一起探讨。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> -导航网站源码搭建 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -导航网站搭建 -导航网站源码 -导航网站 -导航源码 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ai换脸相机-xpression</title>
       <link href="/news/3b04dd5c.html"/>
       <url>/news/3b04dd5c.html</url>
